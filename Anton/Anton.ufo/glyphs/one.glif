@@ -1,0 +1,254 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="one" format="1">
+  <advance width="707"/>
+  <unicode hex="0031"/>
+  <outline>
+    <contour>
+      <point x="346" y="1592" type="qcurve" smooth="no"/>
+      <point x="629" y="1592" type="line" smooth="no"/>
+      <point x="629" y="0" type="line" smooth="no"/>
+      <point x="256" y="0" type="line" smooth="no"/>
+      <point x="256" y="1160" type="line" smooth="no"/>
+      <point x="244" y="1154"/>
+      <point x="203" y="1136"/>
+      <point x="88" y="1106"/>
+      <point x="38" y="1106" type="qcurve" smooth="no"/>
+      <point x="38" y="1106.02" type="line" smooth="no"/>
+      <point x="38" y="1106.13" type="line" smooth="no"/>
+      <point x="38" y="1106.32" type="line" smooth="no"/>
+      <point x="38" y="1106.59" type="line" smooth="no"/>
+      <point x="38" y="1106.94" type="line" smooth="no"/>
+      <point x="38" y="1107.36" type="line" smooth="no"/>
+      <point x="38" y="1107.6" type="line" smooth="no"/>
+      <point x="38" y="1108.13" type="line" smooth="no"/>
+      <point x="38" y="1108.73" type="line" smooth="no"/>
+      <point x="38" y="1109.4" type="line" smooth="no"/>
+      <point x="38" y="1109.76" type="line" smooth="no"/>
+      <point x="38" y="1110.52" type="line" smooth="no"/>
+      <point x="38" y="1111.34" type="line" smooth="no"/>
+      <point x="38" y="1111.78" type="line" smooth="no"/>
+      <point x="38" y="1112.7" type="line" smooth="no"/>
+      <point x="38" y="1113.67" type="line" smooth="no"/>
+      <point x="38" y="1114.7" type="line" smooth="no"/>
+      <point x="38" y="1115.79" type="line" smooth="no"/>
+      <point x="38" y="1116.93" type="line" smooth="no"/>
+      <point x="38" y="1117.52" type="line" smooth="no"/>
+      <point x="38" y="1118.73" type="line" smooth="no"/>
+      <point x="38" y="1120" type="line" smooth="no"/>
+      <point x="38" y="1120.65" type="line" smooth="no"/>
+      <point x="38" y="1121.99" type="line" smooth="no"/>
+      <point x="38" y="1122.68" type="line" smooth="no"/>
+      <point x="38" y="1124.1" type="line" smooth="no"/>
+      <point x="38" y="1124.82" type="line" smooth="no"/>
+      <point x="38" y="1125.55" type="line" smooth="no"/>
+      <point x="38" y="1127.06" type="line" smooth="no"/>
+      <point x="38" y="1127.82" type="line" smooth="no"/>
+      <point x="38" y="1128.6" type="line" smooth="no"/>
+      <point x="38" y="1130.19" type="line" smooth="no"/>
+      <point x="38" y="1131" type="line" smooth="no"/>
+      <point x="38" y="1131.83" type="line" smooth="no"/>
+      <point x="38" y="1132.66" type="line" smooth="no"/>
+      <point x="38" y="1134.35" type="line" smooth="no"/>
+      <point x="38" y="1135.21" type="line" smooth="no"/>
+      <point x="38" y="1136.09" type="line" smooth="no"/>
+      <point x="38" y="1136.97" type="line" smooth="no"/>
+      <point x="38" y="1137.86" type="line" smooth="no"/>
+      <point x="38" y="1138.76" type="line" smooth="no"/>
+      <point x="38" y="1139.67" type="line" smooth="no"/>
+      <point x="38" y="1140.59" type="line" smooth="no"/>
+      <point x="38" y="1141.52" type="line" smooth="no"/>
+      <point x="38" y="1143.41" type="line" smooth="no"/>
+      <point x="38" y="1144.36" type="line" smooth="no"/>
+      <point x="38" y="1145.33" type="line" smooth="no"/>
+      <point x="38" y="1146.3" type="line" smooth="no"/>
+      <point x="38" y="1147.29" type="line" smooth="no"/>
+      <point x="38" y="1148.28" type="line" smooth="no"/>
+      <point x="38" y="1149.28" type="line" smooth="no"/>
+      <point x="38" y="1150.29" type="line" smooth="no"/>
+      <point x="38" y="1151.31" type="line" smooth="no"/>
+      <point x="38" y="1152.33" type="line" smooth="no"/>
+      <point x="38" y="1153.37" type="line" smooth="no"/>
+      <point x="38" y="1154.41" type="line" smooth="no"/>
+      <point x="38" y="1155.46" type="line" smooth="no"/>
+      <point x="38" y="1156.52" type="line" smooth="no"/>
+      <point x="38" y="1157.59" type="line" smooth="no"/>
+      <point x="38" y="1158.67" type="line" smooth="no"/>
+      <point x="38" y="1159.75" type="line" smooth="no"/>
+      <point x="38" y="1160.84" type="line" smooth="no"/>
+      <point x="38" y="1161.94" type="line" smooth="no"/>
+      <point x="38" y="1163.05" type="line" smooth="no"/>
+      <point x="38" y="1164.17" type="line" smooth="no"/>
+      <point x="38" y="1165.29" type="line" smooth="no"/>
+      <point x="38" y="1166.42" type="line" smooth="no"/>
+      <point x="38" y="1167.56" type="line" smooth="no"/>
+      <point x="38" y="1168.71" type="line" smooth="no"/>
+      <point x="38" y="1169.86" type="line" smooth="no"/>
+      <point x="38" y="1171.02" type="line" smooth="no"/>
+      <point x="38" y="1172.19" type="line" smooth="no"/>
+      <point x="38" y="1173.36" type="line" smooth="no"/>
+      <point x="38" y="1174.54" type="line" smooth="no"/>
+      <point x="38" y="1175.73" type="line" smooth="no"/>
+      <point x="38" y="1176.93" type="line" smooth="no"/>
+      <point x="38" y="1178.13" type="line" smooth="no"/>
+      <point x="38" y="1179.35" type="line" smooth="no"/>
+      <point x="38" y="1180.56" type="line" smooth="no"/>
+      <point x="38" y="1181.79" type="line" smooth="no"/>
+      <point x="38" y="1183.02" type="line" smooth="no"/>
+      <point x="38" y="1184.26" type="line" smooth="no"/>
+      <point x="38" y="1185.5" type="line" smooth="no"/>
+      <point x="38" y="1186.76" type="line" smooth="no"/>
+      <point x="38" y="1188.01" type="line" smooth="no"/>
+      <point x="38" y="1189.28" type="line" smooth="no"/>
+      <point x="38" y="1190.55" type="line" smooth="no"/>
+      <point x="38" y="1191.83" type="line" smooth="no"/>
+      <point x="38" y="1193.12" type="line" smooth="no"/>
+      <point x="38" y="1194.41" type="line" smooth="no"/>
+      <point x="38" y="1195.71" type="line" smooth="no"/>
+      <point x="38" y="1197.01" type="line" smooth="no"/>
+      <point x="38" y="1198.32" type="line" smooth="no"/>
+      <point x="38" y="1199.64" type="line" smooth="no"/>
+      <point x="38" y="1200.96" type="line" smooth="no"/>
+      <point x="38" y="1202.29" type="line" smooth="no"/>
+      <point x="38" y="1203.63" type="line" smooth="no"/>
+      <point x="38" y="1204.97" type="line" smooth="no"/>
+      <point x="38" y="1206.32" type="line" smooth="no"/>
+      <point x="38" y="1207.67" type="line" smooth="no"/>
+      <point x="38" y="1209.03" type="line" smooth="no"/>
+      <point x="38" y="1210.4" type="line" smooth="no"/>
+      <point x="38" y="1211.77" type="line" smooth="no"/>
+      <point x="38" y="1213.15" type="line" smooth="no"/>
+      <point x="38" y="1214.54" type="line" smooth="no"/>
+      <point x="38" y="1215.93" type="line" smooth="no"/>
+      <point x="38" y="1217.33" type="line" smooth="no"/>
+      <point x="38" y="1218.73" type="line" smooth="no"/>
+      <point x="38" y="1220.14" type="line" smooth="no"/>
+      <point x="38" y="1221.55" type="line" smooth="no"/>
+      <point x="38" y="1222.97" type="line" smooth="no"/>
+      <point x="38" y="1224.4" type="line" smooth="no"/>
+      <point x="38" y="1225.83" type="line" smooth="no"/>
+      <point x="38" y="1227.26" type="line" smooth="no"/>
+      <point x="38" y="1228.71" type="line" smooth="no"/>
+      <point x="38" y="1230.15" type="line" smooth="no"/>
+      <point x="38" y="1231.61" type="line" smooth="no"/>
+      <point x="38" y="1233.07" type="line" smooth="no"/>
+      <point x="38" y="1234.53" type="line" smooth="no"/>
+      <point x="38" y="1236" type="line" smooth="no"/>
+      <point x="38" y="1237.48" type="line" smooth="no"/>
+      <point x="38" y="1238.96" type="line" smooth="no"/>
+      <point x="38" y="1240.45" type="line" smooth="no"/>
+      <point x="38" y="1241.94" type="line" smooth="no"/>
+      <point x="38" y="1243.44" type="line" smooth="no"/>
+      <point x="38" y="1244.94" type="line" smooth="no"/>
+      <point x="38" y="1246.45" type="line" smooth="no"/>
+      <point x="38" y="1247.97" type="line" smooth="no"/>
+      <point x="38" y="1249.48" type="line" smooth="no"/>
+      <point x="38" y="1251.01" type="line" smooth="no"/>
+      <point x="38" y="1252.54" type="line" smooth="no"/>
+      <point x="38" y="1254.07" type="line" smooth="no"/>
+      <point x="38" y="1255.62" type="line" smooth="no"/>
+      <point x="38" y="1257.16" type="line" smooth="no"/>
+      <point x="38" y="1258.71" type="line" smooth="no"/>
+      <point x="38" y="1260.27" type="line" smooth="no"/>
+      <point x="38" y="1261.83" type="line" smooth="no"/>
+      <point x="38" y="1263.4" type="line" smooth="no"/>
+      <point x="38" y="1264.97" type="line" smooth="no"/>
+      <point x="38" y="1266.55" type="line" smooth="no"/>
+      <point x="38" y="1268.13" type="line" smooth="no"/>
+      <point x="38" y="1269.71" type="line" smooth="no"/>
+      <point x="38" y="1271.31" type="line" smooth="no"/>
+      <point x="38" y="1272.9" type="line" smooth="no"/>
+      <point x="38" y="1274.51" type="line" smooth="no"/>
+      <point x="38" y="1276.11" type="line" smooth="no"/>
+      <point x="38" y="1277.73" type="line" smooth="no"/>
+      <point x="38" y="1279.34" type="line" smooth="no"/>
+      <point x="38" y="1280.97" type="line" smooth="no"/>
+      <point x="38" y="1282.59" type="line" smooth="no"/>
+      <point x="38" y="1284.23" type="line" smooth="no"/>
+      <point x="38" y="1285.86" type="line" smooth="no"/>
+      <point x="38" y="1287.51" type="line" smooth="no"/>
+      <point x="38" y="1289.15" type="line" smooth="no"/>
+      <point x="38" y="1290.81" type="line" smooth="no"/>
+      <point x="38" y="1292.46" type="line" smooth="no"/>
+      <point x="38" y="1294.13" type="line" smooth="no"/>
+      <point x="38" y="1295.79" type="line" smooth="no"/>
+      <point x="38" y="1297.47" type="line" smooth="no"/>
+      <point x="38" y="1299.14" type="line" smooth="no"/>
+      <point x="38" y="1300.82" type="line" smooth="no"/>
+      <point x="38" y="1302.51" type="line" smooth="no"/>
+      <point x="38" y="1304.2" type="line" smooth="no"/>
+      <point x="38" y="1305.9" type="line" smooth="no"/>
+      <point x="38" y="1307.6" type="line" smooth="no"/>
+      <point x="38" y="1309.31" type="line" smooth="no"/>
+      <point x="38" y="1311.02" type="line" smooth="no"/>
+      <point x="38" y="1312.74" type="line" smooth="no"/>
+      <point x="38" y="1314.46" type="line" smooth="no"/>
+      <point x="38" y="1316.18" type="line" smooth="no"/>
+      <point x="38" y="1317.91" type="line" smooth="no"/>
+      <point x="38" y="1319.65" type="line" smooth="no"/>
+      <point x="38" y="1321.39" type="line" smooth="no"/>
+      <point x="38" y="1323.13" type="line" smooth="no"/>
+      <point x="38" y="1324.88" type="line" smooth="no"/>
+      <point x="38" y="1326.64" type="line" smooth="no"/>
+      <point x="38" y="1328.4" type="line" smooth="no"/>
+      <point x="38" y="1330.16" type="line" smooth="no"/>
+      <point x="38" y="1331.93" type="line" smooth="no"/>
+      <point x="38" y="1333.71" type="line" smooth="no"/>
+      <point x="38" y="1335.49" type="line" smooth="no"/>
+      <point x="38" y="1337.27" type="line" smooth="no"/>
+      <point x="38" y="1339.06" type="line" smooth="no"/>
+      <point x="38" y="1340.85" type="line" smooth="no"/>
+      <point x="38" y="1342.65" type="line" smooth="no"/>
+      <point x="38" y="1344.45" type="line" smooth="no"/>
+      <point x="38" y="1346.26" type="line" smooth="no"/>
+      <point x="38" y="1348.07" type="line" smooth="no"/>
+      <point x="38" y="1349.88" type="line" smooth="no"/>
+      <point x="38" y="1351.7" type="line" smooth="no"/>
+      <point x="38" y="1353.53" type="line" smooth="no"/>
+      <point x="38" y="1355.36" type="line" smooth="no"/>
+      <point x="38" y="1357.19" type="line" smooth="no"/>
+      <point x="38" y="1359.02" type="line" smooth="no"/>
+      <point x="38" y="1360.86" type="line" smooth="no"/>
+      <point x="38" y="1362.7" type="line" smooth="no"/>
+      <point x="38" y="1364.54" type="line" smooth="no"/>
+      <point x="38" y="1366.38" type="line" smooth="no"/>
+      <point x="38" y="1368.22" type="line" smooth="no"/>
+      <point x="38" y="1370.06" type="line" smooth="no"/>
+      <point x="38" y="1379" type="line" smooth="no"/>
+      <point x="66" y="1379"/>
+      <point x="164" y="1409"/>
+      <point x="270" y="1461"/>
+      <point x="346" y="1545"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.fontlab.hintData</key>
+      <dict>
+	<key>hhints</key>
+	<array>
+	  <dict>
+	    <key>position</key>	    <integer>0</integer>
+	    <key>width</key>	    <integer>21</integer>
+	  </dict>
+	  <dict>
+	    <key>position</key>	    <integer>1106</integer>
+	    <key>width</key>	    <integer>273</integer>
+	  </dict>
+	  <dict>
+	    <key>position</key>	    <integer>1572</integer>
+	    <key>width</key>	    <integer>20</integer>
+	  </dict>
+	</array>
+	<key>vhints</key>
+	<array>
+	  <dict>
+	    <key>position</key>
+	    <integer>256</integer>
+	    <key>width</key>
+	    <integer>373</integer>
+	  </dict>
+	</array>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

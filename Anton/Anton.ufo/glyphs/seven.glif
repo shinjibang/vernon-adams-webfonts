@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="seven" format="1">
+  <advance width="1018"/>
+  <unicode hex="0037"/>
+  <outline>
+    <contour>
+      <point x="141" y="1" type="qcurve" smooth="no"/>
+      <point x="162" y="1"/>
+      <point x="275" y="0"/>
+      <point x="306" y="0" type="qcurve" smooth="yes"/>
+      <point x="539" y="1" type="line" smooth="no"/>
+      <point x="551" y="188"/>
+      <point x="620" y="540"/>
+      <point x="705" y="796"/>
+      <point x="803" y="1041"/>
+      <point x="885" y="1215"/>
+      <point x="947" y="1388"/>
+      <point x="954" y="1451" type="qcurve" smooth="no"/>
+      <point x="954" y="1706" type="line" smooth="no"/>
+      <point x="66" y="1706" type="line" smooth="no"/>
+      <point x="66" y="1389" type="line" smooth="no"/>
+      <point x="563" y="1389" type="line" smooth="no"/>
+      <point x="543" y="1315"/>
+      <point x="340" y="829"/>
+      <point x="233" y="535"/>
+      <point x="153" y="178"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.fontlab.hintData</key>
+      <dict>
+	<key>vhints</key>
+	<array>
+	  <dict>
+	    <key>position</key>
+	    <integer>141</integer>
+	    <key>width</key>
+	    <integer>398</integer>
+	  </dict>
+	</array>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="ordmasculine" format="1">
+  <advance width="1036"/>
+  <unicode hex="00ba"/>
+  <outline>
+    <contour>
+      <point x="427.754" y="386.715" type="qcurve" smooth="yes"/>
+      <point x="72.1504" y="386.715"/>
+      <point x="72.1504" y="757.335" type="qcurve" smooth="yes"/>
+      <point x="72.1504" y="1235.09" type="line" smooth="yes"/>
+      <point x="72.1504" y="1405.72"/>
+      <point x="262.652" y="1605.71"/>
+      <point x="427.754" y="1605.71" type="qcurve" smooth="yes"/>
+      <point x="593.648" y="1605.71"/>
+      <point x="784.15" y="1405.72"/>
+      <point x="784.15" y="1235.09" type="qcurve" smooth="yes"/>
+      <point x="784.15" y="757.335" type="line" smooth="yes"/>
+      <point x="784.15" y="570.835"/>
+      <point x="602.38" y="386.715"/>
+    </contour>
+    <contour>
+      <point x="361.078" y="1384.29"/>
+      <point x="361.078" y="1280.33" type="qcurve" smooth="yes"/>
+      <point x="361.078" y="698.607" type="line" smooth="yes"/>
+      <point x="361.078" y="650.99"/>
+      <point x="398.385" y="607.341"/>
+      <point x="457.123" y="607.341"/>
+      <point x="494.43" y="650.99"/>
+      <point x="494.43" y="698.607" type="qcurve" smooth="yes"/>
+      <point x="494.43" y="1280.33" type="line" smooth="yes"/>
+      <point x="494.43" y="1384.29"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.fontlab.hintData</key>
+      <dict>
+	<key>hhints</key>
+	<array>
+	  <dict>
+	    <key>position</key>	    <integer>387</integer>
+	    <key>width</key>	    <integer>221</integer>
+	  </dict>
+	  <dict>
+	    <key>position</key>	    <integer>1384</integer>
+	    <key>width</key>	    <integer>221</integer>
+	  </dict>
+	</array>
+	<key>vhints</key>
+	<array>
+	  <dict>
+	    <key>position</key>
+	    <integer>72</integer>
+	    <key>width</key>
+	    <integer>289</integer>
+	  </dict>
+	  <dict>
+	    <key>position</key>
+	    <integer>494</integer>
+	    <key>width</key>
+	    <integer>290</integer>
+	  </dict>
+	</array>
+      </dict>
+    </dict>
+  </lib>
+</glyph>
