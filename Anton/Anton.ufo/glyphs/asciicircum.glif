@@ -5,12 +5,12 @@
   <outline>
     <contour>
       <point x="689" y="1355" type="line" smooth="no"/>
-      <point x="281" y="1355" type="line" smooth="no"/>
-      <point x="40" y="432" type="line" smooth="no"/>
-      <point x="399" y="432" type="line" smooth="no"/>
-      <point x="485" y="1027" type="line" smooth="no"/>
-      <point x="571" y="432" type="line" smooth="no"/>
       <point x="930" y="432" type="line" smooth="no"/>
+      <point x="571" y="432" type="line" smooth="no"/>
+      <point x="485" y="1027" type="line" smooth="no"/>
+      <point x="399" y="432" type="line" smooth="no"/>
+      <point x="40" y="432" type="line" smooth="no"/>
+      <point x="281" y="1355" type="line" smooth="no"/>
     </contour>
   </outline>
   <lib>

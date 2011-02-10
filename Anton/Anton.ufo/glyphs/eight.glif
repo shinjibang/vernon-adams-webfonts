@@ -13,9 +13,8 @@
       <point x="443" y="647"/>
       <point x="442" y="608"/>
       <point x="440" y="572"/>
-      <point x="440.954" y="557.505" type="qcurve" smooth="yes"/>
-      <point x="441" y="548"/>
-      <point x="441" y="544" type="qcurve" smooth="yes"/>
+      <point x="441" y="558" type="qcurve" smooth="yes"/>
+      <point x="441" y="544" type="line" smooth="yes"/>
       <point x="441" y="538"/>
       <point x="440" y="500"/>
       <point x="440" y="488" type="qcurve" smooth="yes"/>
@@ -49,8 +48,8 @@
       <point x="994" y="717"/>
       <point x="996" y="656"/>
       <point x="998" y="588"/>
-      <point x="997.103" y="551.814" type="qcurve" smooth="yes"/>
-      <point x="997" y="524"/>
+      <point x="998" y="552" type="qcurve" smooth="yes"/>
+      <point x="998" y="524"/>
       <point x="997" y="510" type="qcurve" smooth="yes"/>
       <point x="997" y="387"/>
       <point x="949" y="200"/>
@@ -63,9 +62,7 @@
       <point x="123" y="200"/>
       <point x="75" y="387"/>
       <point x="75" y="510" type="qcurve" smooth="yes"/>
-      <point x="75" y="524"/>
-      <point x="74.8968" y="552.385" type="qcurve" smooth="yes"/>
-      <point x="75" y="600"/>
+      <point x="75" y="552" type="line" smooth="yes"/>
       <point x="75" y="647"/>
       <point x="78" y="727"/>
       <point x="86" y="768"/>
@@ -124,13 +121,13 @@
 	    <key>position</key>
 	    <integer>75</integer>
 	    <key>width</key>
-	    <integer>365</integer>
+	    <integer>366</integer>
 	  </dict>
 	  <dict>
 	    <key>position</key>
-	    <integer>632</integer>
+	    <integer>629</integer>
 	    <key>width</key>
-	    <integer>366</integer>
+	    <integer>367</integer>
 	  </dict>
 	</array>
       </dict>

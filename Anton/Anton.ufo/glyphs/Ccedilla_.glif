@@ -39,26 +39,26 @@
       <point x="944" y="385" type="qcurve" smooth="yes"/>
     </contour>
     <contour>
-      <point x="235" y="-591" type="line" smooth="no"/>
-      <point x="331" y="-631"/>
-      <point x="433" y="-631" type="qcurve" smooth="yes"/>
-      <point x="580" y="-631"/>
-      <point x="781" y="-469"/>
-      <point x="781" y="-330" type="qcurve" smooth="yes"/>
-      <point x="781" y="-237"/>
-      <point x="644" y="-93"/>
-      <point x="517" y="-76" type="qcurve" smooth="no"/>
-      <point x="517" y="0" type="line" smooth="no"/>
-      <point x="306" y="0" type="line" smooth="no"/>
-      <point x="306" y="-106" type="line" smooth="no"/>
-      <point x="381" y="-122"/>
-      <point x="466" y="-223"/>
-      <point x="466" y="-279" type="qcurve" smooth="yes"/>
-      <point x="466" y="-337"/>
-      <point x="404" y="-391"/>
-      <point x="351" y="-391" type="qcurve" smooth="yes"/>
+      <point x="235" y="-591" type="qcurve" smooth="no"/>
+      <point x="235" y="-368" type="line" smooth="no"/>
       <point x="301" y="-391"/>
-      <point x="235" y="-368" type="qcurve" smooth="no"/>
+      <point x="351" y="-391" type="qcurve" smooth="yes"/>
+      <point x="404" y="-391"/>
+      <point x="466" y="-337"/>
+      <point x="466" y="-279" type="qcurve" smooth="yes"/>
+      <point x="466" y="-223"/>
+      <point x="381" y="-122"/>
+      <point x="306" y="-106" type="qcurve" smooth="no"/>
+      <point x="306" y="0" type="line" smooth="no"/>
+      <point x="517" y="0" type="line" smooth="no"/>
+      <point x="517" y="-76" type="line" smooth="no"/>
+      <point x="644" y="-93"/>
+      <point x="781" y="-237"/>
+      <point x="781" y="-330" type="qcurve" smooth="yes"/>
+      <point x="781" y="-469"/>
+      <point x="580" y="-631"/>
+      <point x="433" y="-631" type="qcurve" smooth="yes"/>
+      <point x="331" y="-631"/>
     </contour>
   </outline>
   <lib>
@@ -74,10 +74,6 @@
 	  <dict>
 	    <key>position</key>	    <integer>-106</integer>
 	    <key>width</key>	    <integer>106</integer>
-	  </dict>
-	  <dict>
-	    <key>position</key>	    <integer>-18</integer>
-	    <key>width</key>	    <integer>18</integer>
 	  </dict>
 	  <dict>
 	    <key>position</key>	    <integer>1284</integer>

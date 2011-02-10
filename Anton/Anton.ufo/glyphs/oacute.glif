@@ -32,9 +32,9 @@
     </contour>
     <contour>
       <point x="254" y="1553" type="line" smooth="no"/>
-      <point x="729" y="1647" type="line" smooth="no"/>
-      <point x="729" y="1994" type="line" smooth="no"/>
       <point x="254" y="1776" type="line" smooth="no"/>
+      <point x="729" y="1994" type="line" smooth="no"/>
+      <point x="729" y="1647" type="line" smooth="no"/>
     </contour>
   </outline>
   <lib>

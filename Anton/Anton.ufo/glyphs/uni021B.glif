@@ -33,12 +33,12 @@
     </contour>
     <contour>
       <point x="163" y="-438" type="line" smooth="no"/>
-      <point x="290" y="-438" type="line" smooth="no"/>
-      <point x="224" y="-674" type="line" smooth="no"/>
-      <point x="435" y="-674" type="line" smooth="no"/>
-      <point x="537" y="-429" type="line" smooth="no"/>
-      <point x="537" y="-140" type="line" smooth="no"/>
       <point x="163" y="-140" type="line" smooth="no"/>
+      <point x="537" y="-140" type="line" smooth="no"/>
+      <point x="537" y="-429" type="line" smooth="no"/>
+      <point x="435" y="-674" type="line" smooth="no"/>
+      <point x="224" y="-674" type="line" smooth="no"/>
+      <point x="290" y="-438" type="line" smooth="no"/>
     </contour>
   </outline>
   <lib>

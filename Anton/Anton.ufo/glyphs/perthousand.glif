@@ -45,9 +45,9 @@
     </contour>
     <contour>
       <point x="990" y="0" type="line" smooth="no"/>
-      <point x="1531" y="1767" type="line" smooth="no"/>
-      <point x="1207" y="1767" type="line" smooth="no"/>
       <point x="667" y="0" type="line" smooth="no"/>
+      <point x="1207" y="1767" type="line" smooth="no"/>
+      <point x="1531" y="1767" type="line" smooth="no"/>
     </contour>
     <contour>
       <point x="440" y="528" type="qcurve" smooth="yes"/>
@@ -141,6 +141,10 @@
 	    <key>width</key>	    <integer>262</integer>
 	  </dict>
 	  <dict>
+	    <key>position</key>	    <integer>0</integer>
+	    <key>width</key>	    <integer>21</integer>
+	  </dict>
+	  <dict>
 	    <key>position</key>	    <integer>528</integer>
 	    <key>width</key>	    <integer>262</integer>
 	  </dict>
@@ -151,6 +155,10 @@
 	  <dict>
 	    <key>position</key>	    <integer>1502</integer>
 	    <key>width</key>	    <integer>227</integer>
+	  </dict>
+	  <dict>
+	    <key>position</key>	    <integer>1747</integer>
+	    <key>width</key>	    <integer>20</integer>
 	  </dict>
 	</array>
 	<key>vhints</key>

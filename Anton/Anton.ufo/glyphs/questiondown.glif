@@ -47,9 +47,9 @@
     </contour>
     <contour>
       <point x="914" y="1672" type="line" smooth="no"/>
-      <point x="556" y="1672" type="line" smooth="no"/>
-      <point x="556" y="1374" type="line" smooth="no"/>
       <point x="914" y="1374" type="line" smooth="no"/>
+      <point x="556" y="1374" type="line" smooth="no"/>
+      <point x="556" y="1672" type="line" smooth="no"/>
     </contour>
   </outline>
   <lib>
@@ -65,6 +65,10 @@
 	  <dict>
 	    <key>position</key>	    <integer>848</integer>
 	    <key>width</key>	    <integer>416</integer>
+	  </dict>
+	  <dict>
+	    <key>position</key>	    <integer>1374</integer>
+	    <key>width</key>	    <integer>298</integer>
 	  </dict>
 	</array>
 	<key>vhints</key>

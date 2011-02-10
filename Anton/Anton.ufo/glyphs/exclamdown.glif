@@ -5,9 +5,9 @@
   <outline>
     <contour>
       <point x="65" y="1" type="line" smooth="no"/>
-      <point x="423" y="1" type="line" smooth="no"/>
-      <point x="353" y="1155" type="line" smooth="no"/>
       <point x="135" y="1155" type="line" smooth="no"/>
+      <point x="353" y="1155" type="line" smooth="no"/>
+      <point x="423" y="1" type="line" smooth="no"/>
     </contour>
     <contour>
       <point x="65" y="1593" type="line" smooth="no"/>
@@ -22,6 +22,10 @@
       <dict>
 	<key>hhints</key>
 	<array>
+	  <dict>
+	    <key>position</key>	    <integer>1</integer>
+	    <key>width</key>	    <integer>21</integer>
+	  </dict>
 	  <dict>
 	    <key>position</key>	    <integer>1295</integer>
 	    <key>width</key>	    <integer>298</integer>

@@ -10,8 +10,7 @@
       <point x="76" y="1593" type="line" smooth="no"/>
       <point x="418" y="1593" type="line" smooth="no"/>
       <point x="418" y="453" type="line" smooth="yes"/>
-      <point x="418" y="451"/>
-      <point x="417.987" y="445.633" type="qcurve" smooth="yes"/>
+      <point x="418" y="446" type="line" smooth="yes"/>
       <point x="418" y="420"/>
       <point x="419" y="390"/>
       <point x="428" y="338"/>
@@ -24,9 +23,8 @@
       <point x="585" y="355"/>
       <point x="589" y="400"/>
       <point x="590" y="424"/>
-      <point x="590.013" y="445.633" type="qcurve" smooth="yes"/>
-      <point x="590" y="451"/>
-      <point x="590" y="453" type="qcurve" smooth="yes"/>
+      <point x="590" y="446" type="qcurve" smooth="yes"/>
+      <point x="590" y="453" type="line" smooth="yes"/>
       <point x="590" y="1593" type="line" smooth="no"/>
       <point x="932" y="1593" type="line" smooth="no"/>
       <point x="932" y="422" type="line" smooth="yes"/>
@@ -35,15 +33,15 @@
     </contour>
     <contour>
       <point x="86" y="1683" type="line" smooth="no"/>
-      <point x="444" y="1683" type="line" smooth="no"/>
-      <point x="444" y="1981" type="line" smooth="no"/>
       <point x="86" y="1981" type="line" smooth="no"/>
+      <point x="444" y="1981" type="line" smooth="no"/>
+      <point x="444" y="1683" type="line" smooth="no"/>
     </contour>
     <contour>
       <point x="570" y="1683" type="line" smooth="no"/>
-      <point x="928" y="1683" type="line" smooth="no"/>
-      <point x="928" y="1981" type="line" smooth="no"/>
       <point x="570" y="1981" type="line" smooth="no"/>
+      <point x="928" y="1981" type="line" smooth="no"/>
+      <point x="928" y="1683" type="line" smooth="no"/>
     </contour>
   </outline>
   <lib>
@@ -60,6 +58,10 @@
 	    <key>position</key>	    <integer>1573</integer>
 	    <key>width</key>	    <integer>20</integer>
 	  </dict>
+	  <dict>
+	    <key>position</key>	    <integer>1683</integer>
+	    <key>width</key>	    <integer>298</integer>
+	  </dict>
 	</array>
 	<key>vhints</key>
 	<array>
@@ -68,6 +70,18 @@
 	    <integer>76</integer>
 	    <key>width</key>
 	    <integer>342</integer>
+	  </dict>
+	  <dict>
+	    <key>position</key>
+	    <integer>86</integer>
+	    <key>width</key>
+	    <integer>358</integer>
+	  </dict>
+	  <dict>
+	    <key>position</key>
+	    <integer>570</integer>
+	    <key>width</key>
+	    <integer>358</integer>
 	  </dict>
 	  <dict>
 	    <key>position</key>

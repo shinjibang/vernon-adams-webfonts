@@ -5,17 +5,17 @@
   <outline>
     <contour>
       <point x="26" y="509" type="line" smooth="no"/>
-      <point x="234" y="509" type="line" smooth="no"/>
-      <point x="234" y="301" type="line" smooth="no"/>
-      <point x="466" y="301" type="line" smooth="no"/>
-      <point x="466" y="509" type="line" smooth="no"/>
-      <point x="674" y="509" type="line" smooth="no"/>
-      <point x="674" y="741" type="line" smooth="no"/>
-      <point x="466" y="741" type="line" smooth="no"/>
-      <point x="466" y="949" type="line" smooth="no"/>
-      <point x="234" y="949" type="line" smooth="no"/>
-      <point x="234" y="741" type="line" smooth="no"/>
       <point x="26" y="741" type="line" smooth="no"/>
+      <point x="234" y="741" type="line" smooth="no"/>
+      <point x="234" y="949" type="line" smooth="no"/>
+      <point x="466" y="949" type="line" smooth="no"/>
+      <point x="466" y="741" type="line" smooth="no"/>
+      <point x="674" y="741" type="line" smooth="no"/>
+      <point x="674" y="509" type="line" smooth="no"/>
+      <point x="466" y="509" type="line" smooth="no"/>
+      <point x="466" y="301" type="line" smooth="no"/>
+      <point x="234" y="301" type="line" smooth="no"/>
+      <point x="234" y="509" type="line" smooth="no"/>
     </contour>
   </outline>
   <lib>
@@ -25,17 +25,17 @@
 	<key>hhints</key>
 	<array>
 	  <dict>
-	    <key>position</key>	    <integer>301</integer>
-	    <key>width</key>	    <integer>648</integer>
+	    <key>position</key>	    <integer>509</integer>
+	    <key>width</key>	    <integer>232</integer>
 	  </dict>
 	</array>
 	<key>vhints</key>
 	<array>
 	  <dict>
 	    <key>position</key>
-	    <integer>26</integer>
+	    <integer>234</integer>
 	    <key>width</key>
-	    <integer>648</integer>
+	    <integer>232</integer>
 	  </dict>
 	</array>
       </dict>

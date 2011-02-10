@@ -5,15 +5,15 @@
   <outline>
     <contour>
       <point x="72" y="0" type="line" smooth="no"/>
-      <point x="856" y="0" type="line" smooth="no"/>
-      <point x="856" y="301" type="line" smooth="no"/>
-      <point x="479" y="301" type="line" smooth="no"/>
-      <point x="881" y="1194" type="line" smooth="no"/>
-      <point x="881" y="1500" type="line" smooth="no"/>
-      <point x="111" y="1500" type="line" smooth="no"/>
-      <point x="111" y="1194" type="line" smooth="no"/>
-      <point x="485" y="1194" type="line" smooth="no"/>
       <point x="72" y="272" type="line" smooth="no"/>
+      <point x="485" y="1194" type="line" smooth="no"/>
+      <point x="111" y="1194" type="line" smooth="no"/>
+      <point x="111" y="1500" type="line" smooth="no"/>
+      <point x="881" y="1500" type="line" smooth="no"/>
+      <point x="881" y="1194" type="line" smooth="no"/>
+      <point x="479" y="301" type="line" smooth="no"/>
+      <point x="856" y="301" type="line" smooth="no"/>
+      <point x="856" y="0" type="line" smooth="no"/>
     </contour>
     <contour>
       <point x="681" y="1591" type="line" smooth="no"/>
@@ -31,6 +31,14 @@
       <dict>
 	<key>hhints</key>
 	<array>
+	  <dict>
+	    <key>position</key>	    <integer>0</integer>
+	    <key>width</key>	    <integer>301</integer>
+	  </dict>
+	  <dict>
+	    <key>position</key>	    <integer>1194</integer>
+	    <key>width</key>	    <integer>306</integer>
+	  </dict>
 	  <dict>
 	    <key>position</key>	    <integer>1591</integer>
 	    <key>width</key>	    <integer>403</integer>

@@ -47,9 +47,9 @@
     </contour>
     <contour>
       <point x="120" y="1" type="line" smooth="no"/>
-      <point x="478" y="1" type="line" smooth="no"/>
-      <point x="478" y="299" type="line" smooth="no"/>
       <point x="120" y="299" type="line" smooth="no"/>
+      <point x="478" y="299" type="line" smooth="no"/>
+      <point x="478" y="1" type="line" smooth="no"/>
     </contour>
   </outline>
   <lib>
@@ -58,6 +58,10 @@
       <dict>
 	<key>hhints</key>
 	<array>
+	  <dict>
+	    <key>position</key>	    <integer>1</integer>
+	    <key>width</key>	    <integer>298</integer>
+	  </dict>
 	  <dict>
 	    <key>position</key>	    <integer>409</integer>
 	    <key>width</key>	    <integer>416</integer>
@@ -74,6 +78,12 @@
 	    <integer>52</integer>
 	    <key>width</key>
 	    <integer>366</integer>
+	  </dict>
+	  <dict>
+	    <key>position</key>
+	    <integer>120</integer>
+	    <key>width</key>
+	    <integer>358</integer>
 	  </dict>
 	  <dict>
 	    <key>position</key>

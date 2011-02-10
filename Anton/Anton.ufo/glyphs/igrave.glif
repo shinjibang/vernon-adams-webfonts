@@ -5,9 +5,9 @@
   <outline>
     <contour>
       <point x="78" y="0" type="line" smooth="no"/>
-      <point x="436" y="0" type="line" smooth="no"/>
-      <point x="436" y="1500" type="line" smooth="no"/>
       <point x="78" y="1500" type="line" smooth="no"/>
+      <point x="436" y="1500" type="line" smooth="no"/>
+      <point x="436" y="0" type="line" smooth="no"/>
     </contour>
     <contour>
       <point x="478" y="1553" type="line" smooth="no"/>
@@ -20,13 +20,24 @@
     <dict>
       <key>com.fontlab.hintData</key>
       <dict>
+	<key>hhints</key>
+	<array>
+	  <dict>
+	    <key>position</key>	    <integer>0</integer>
+	    <key>width</key>	    <integer>21</integer>
+	  </dict>
+	  <dict>
+	    <key>position</key>	    <integer>1480</integer>
+	    <key>width</key>	    <integer>20</integer>
+	  </dict>
+	</array>
 	<key>vhints</key>
 	<array>
 	  <dict>
 	    <key>position</key>
-	    <integer>3</integer>
+	    <integer>78</integer>
 	    <key>width</key>
-	    <integer>475</integer>
+	    <integer>358</integer>
 	  </dict>
 	</array>
       </dict>

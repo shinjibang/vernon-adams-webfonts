@@ -32,12 +32,12 @@
     </contour>
     <contour>
       <point x="722" y="1994" type="line" smooth="no"/>
-      <point x="314" y="1994" type="line" smooth="no"/>
-      <point x="73" y="1591" type="line" smooth="no"/>
-      <point x="432" y="1591" type="line" smooth="no"/>
-      <point x="518" y="1876" type="line" smooth="no"/>
-      <point x="604" y="1591" type="line" smooth="no"/>
       <point x="963" y="1591" type="line" smooth="no"/>
+      <point x="604" y="1591" type="line" smooth="no"/>
+      <point x="518" y="1876" type="line" smooth="no"/>
+      <point x="432" y="1591" type="line" smooth="no"/>
+      <point x="73" y="1591" type="line" smooth="no"/>
+      <point x="314" y="1994" type="line" smooth="no"/>
     </contour>
   </outline>
   <lib>
@@ -53,6 +53,10 @@
 	  <dict>
 	    <key>position</key>	    <integer>1239</integer>
 	    <key>width</key>	    <integer>279</integer>
+	  </dict>
+	  <dict>
+	    <key>position</key>	    <integer>1591</integer>
+	    <key>width</key>	    <integer>403</integer>
 	  </dict>
 	  <dict>
 	    <key>position</key>	    <integer>1876</integer>
