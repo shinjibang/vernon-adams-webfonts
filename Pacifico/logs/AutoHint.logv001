@@ -1,0 +1,171 @@
+Autohinting starting for font Pacifico_thinned.vfb Fri Feb 18 20:31:57 2011
+Skipping glyph .notdef. A composite or Non-marking glyph - nothing to hint.
+Skipping glyph .null. A composite or Non-marking glyph - nothing to hint.
+Skipping glyph CR. A composite or Non-marking glyph - nothing to hint.
+Skipping glyph space. A composite or Non-marking glyph - nothing to hint.
+Hinting c.
+Hinting f.
+	Character bounding box looks bogus: 68 -604 969 1832.
+	FYI: added flex operators to this character.
+	The line from 443 587 to 445 603 is not exactly vertical.
+
+Hinting i.
+Hinting n.
+Hinting P.
+	Character bounding box looks bogus: 180 -248 1632 1735.
+	Junction at 1056 943 may need smoothing.
+	Curve from 795 878 to 795 857 should be changed to a line.
+	Curve from 805 632 to 805 580 should be changed to a line.
+
+Hinting d.
+	Character bounding box looks bogus: 54 0 1256 1907.
+	Near miss above horizontal zone at 1 instead of 0.
+
+Hinting a.
+	Near miss below horizontal zone at -3 instead of 0.
+
+Hinting e.
+Hinting m.
+	Junction at 759 71 may need smoothing.
+	Near miss below horizontal zone at -2 instead of 0.
+	Note: Glyph is in list for using V counter hints, but didn't find any candidates.
+
+Hinting h.
+	Character bounding box looks bogus: 117 0 1225 1907.
+	FYI: angle at 336 710 is very sharp. Please check.
+	Junction at 457 1397 may need smoothing.
+
+Hinting u.
+	Junction at 435 911 may need smoothing.
+	The line from 361 951 to 336 953 is not exactly horizontal.
+	Near miss below horizontal zone at -2 instead of 0.
+
+Hinting l.
+	Character bounding box looks bogus: 181 0 956 1907.
+	Curves from 453 795 to 454 986 near miss for adding flex.
+
+Hinting o.
+Hinting k.
+	Character bounding box looks bogus: 118 0 1194 1907.
+	Junction at 544 752 may need smoothing.
+	Junction at 688 514 may need smoothing.
+	Junction at 1052 718 may need smoothing.
+	FYI: angle at 347 685 is very sharp. Please check.
+	Junction at 459 1397 may need smoothing.
+	Near miss above horizontal zone at 4 instead of 0.
+
+Hinting b.
+	Character bounding box looks bogus: 23 0 1169 1907.
+	FYI: angle at 763 241 is very sharp. Please check.
+
+Hinting N.
+	Character bounding box looks bogus: 122 -41 1943 1717.
+	Junction at 138 299 may need smoothing.
+	Junction at 433 85 may need smoothing.
+	FYI: angle at 1883 520 is very sharp. Please check.
+
+Hinting M.
+	Character bounding box looks bogus: 456 -32 2648 1711.
+	Junction at 1433 94 may need smoothing.
+	FYI: angle at 2569 533 is very sharp. Please check.
+	The line from 1509 1076 to 1488 1075 is not exactly horizontal.
+	Note: Glyph is in list for using V counter hints, but didn't find any candidates.
+	FYI: angle at 2569 533 is very sharp. Please check.
+
+Hinting R.
+	Character bounding box looks bogus: 53 -198 2036 1735.
+	Junction at 940 453 may need smoothing.
+	The line from 797 993 to 796 972 is not exactly vertical.
+
+Hinting t.
+	Character bounding box looks bogus: -140 -3 1014 1780.
+	Junction at 982 901 may need smoothing.
+	Near miss below horizontal zone at -3 instead of 0.
+
+Hinting D.
+	Character bounding box looks bogus: 101 -60 1430 1735.
+	Junction at 672 1713 may need smoothing.
+
+Hinting quotesingle.
+	Character bounding box looks bogus: 149 951 461 1617.
+
+Hinting E.
+	Character bounding box looks bogus: 82 -100 1477 1729.
+	FYI: angle at 696 887 is very sharp. Please check.
+
+Hinting O.
+	Character bounding box looks bogus: 92 -188 1648 1874.
+
+Hinting period.
+Hinting p.
+	Character bounding box looks bogus: -129 -778 1102 951.
+	Junction at 637 13 may need smoothing.
+
+Hinting U.
+	Character bounding box looks bogus: 102 -168 1534 1686.
+
+Hinting Q.
+	Character bounding box looks bogus: 92 -653 1648 1874.
+
+Hinting W.
+	Character bounding box looks bogus: 374 -97 2426 1656.
+	FYI: angle at 1309 724 is very sharp. Please check.
+	Junction at 2426 1538 may need smoothing.
+	Junction at 1369 1402 may need smoothing.
+
+Hinting S.
+	Character bounding box looks bogus: 182 -183 1828 1898.
+
+Hinting w.
+	Junction at 1050 957 may need smoothing.
+	Junction at 879 956 may need smoothing.
+	Junction at 443 956 may need smoothing.
+	The line from 805 355 to 791 354 is not exactly horizontal.
+	The line from 788 1020 to 763 1022 is not exactly horizontal.
+	The line from 380 355 to 367 354 is not exactly horizontal.
+	The line from 352 1020 to 328 1022 is not exactly horizontal.
+
+Hinting v.
+	Junction at 633 957 may need smoothing.
+	The line from 349 262 to 335 261 is not exactly horizontal.
+	The line from 128 324 to 130 292 is not exactly vertical.
+
+Hinting r.
+Hinting F.
+	Character bounding box looks bogus: 118 -132 2152 1690.
+	Junction at 938 1229 may need smoothing.
+	Junction at 1630 941 may need smoothing.
+	Junction at 403 1149 may need smoothing.
+	Curve from 705 1171 to 705 1174 should be changed to a line.
+
+Hinting at.
+	Character bounding box looks bogus: 363 -198 2036 1925.
+	FYI: angle at 2036 957 is very sharp. Please check.
+	Junction at 1757 1219 may need smoothing.
+	FYI: angle at 363 770 is very sharp. Please check.
+
+Hinting J.
+	Character bounding box looks bogus: 363 -198 1966 1615.
+	Junction at 1582 867 may need smoothing.
+
+Hinting K.
+	Character bounding box looks bogus: 124 -82 2036 1686.
+
+Hinting acute.
+	Junction at 195 732 may need smoothing.
+
+Hinting A.
+	Character bounding box looks bogus: 95 -80 1842 1684.
+	Junction at 1388 489 may need smoothing.
+	FYI: angle at 1144 383 is very sharp. Please check.
+	Junction at 1161 729 may need smoothing.
+
+Hinting B.
+	Character bounding box looks bogus: 62 -87 1486 1735.
+	FYI: angle at 915 841 is very sharp. Please check.
+	Junction at 373 169 may need smoothing.
+
+Hinting C.
+	Character bounding box looks bogus: 100 -188 1766 1813.
+	Curve from 1766 338 to 1766 553 should be changed to a line.
+
