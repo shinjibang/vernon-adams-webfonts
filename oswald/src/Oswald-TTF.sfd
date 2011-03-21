@@ -1,5 +1,5 @@
 SplineFontDB: 3.0
-FontName: Oswald 
+FontName: Oswald
 FullName: Oswald 
 FamilyName: Oswald
 Weight: Regular
@@ -20,7 +20,7 @@ OS2Version: 2
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 1
 CreationTime: 1299844920
-ModificationTime: 1300495806
+ModificationTime: 1300714394
 PfmFamily: 17
 TTFWeight: 400
 TTFWidth: 5
@@ -890,8 +890,8 @@ ShortTable: cvt  41
   186
   178
 EndShort
-LangName: 1033 "" "" "Regular" "Newt : Allerton : 18-3-2011" "" "Version 1.000" "" "Allerton is a trademark of vernon adams." "vernon adams" "vernon adams" "Copyright (c) 2011 by . All rights reserved." "" "" "Copyright (c) 2011, vern (<URL|email>),+AAoA-with Reserved Font Name Allerton.+AAoACgAA-This Font Software is licensed under the SIL Open Font License, Version 1.1.+AAoA-This license is copied below, and is also available with a FAQ at:+AAoA-http://scripts.sil.org/OFL+AAoACgAK------------------------------------------------------------+AAoA-SIL OPEN FONT LICENSE Version 1.1 - 26 February 2007+AAoA------------------------------------------------------------+AAoACgAA-PREAMBLE+AAoA-The goals of the Open Font License (OFL) are to stimulate worldwide+AAoA-development of collaborative font projects, to support the font creation+AAoA-efforts of academic and linguistic communities, and to provide a free and+AAoA-open framework in which fonts may be shared and improved in partnership+AAoA-with others.+AAoACgAA-The OFL allows the licensed fonts to be used, studied, modified and+AAoA-redistributed freely as long as they are not sold by themselves. The+AAoA-fonts, including any derivative works, can be bundled, embedded, +AAoA-redistributed and/or sold with any software provided that any reserved+AAoA-names are not used by derivative works. The fonts and derivatives,+AAoA-however, cannot be released under any other type of license. The+AAoA-requirement for fonts to remain under this license does not apply+AAoA-to any document created using the fonts or their derivatives.+AAoACgAA-DEFINITIONS+AAoAIgAA-Font Software+ACIA refers to the set of files released by the Copyright+AAoA-Holder(s) under this license and clearly marked as such. This may+AAoA-include source files, build scripts and documentation.+AAoACgAi-Reserved Font Name+ACIA refers to any names specified as such after the+AAoA-copyright statement(s).+AAoACgAi-Original Version+ACIA refers to the collection of Font Software components as+AAoA-distributed by the Copyright Holder(s).+AAoACgAi-Modified Version+ACIA refers to any derivative made by adding to, deleting,+AAoA-or substituting -- in part or in whole -- any of the components of the+AAoA-Original Version, by changing formats or by porting the Font Software to a+AAoA-new environment.+AAoACgAi-Author+ACIA refers to any designer, engineer, programmer, technical+AAoA-writer or other person who contributed to the Font Software.+AAoACgAA-PERMISSION & CONDITIONS+AAoA-Permission is hereby granted, free of charge, to any person obtaining+AAoA-a copy of the Font Software, to use, study, copy, merge, embed, modify,+AAoA-redistribute, and sell modified and unmodified copies of the Font+AAoA-Software, subject to the following conditions:+AAoACgAA-1) Neither the Font Software nor any of its individual components,+AAoA-in Original or Modified Versions, may be sold by itself.+AAoACgAA-2) Original or Modified Versions of the Font Software may be bundled,+AAoA-redistributed and/or sold with any software, provided that each copy+AAoA-contains the above copyright notice and this license. These can be+AAoA-included either as stand-alone text files, human-readable headers or+AAoA-in the appropriate machine-readable metadata fields within text or+AAoA-binary files as long as those fields can be easily viewed by the user.+AAoACgAA-3) No Modified Version of the Font Software may use the Reserved Font+AAoA-Name(s) unless explicit written permission is granted by the corresponding+AAoA-Copyright Holder. This restriction only applies to the primary font name as+AAoA-presented to the users.+AAoACgAA-4) The name(s) of the Copyright Holder(s) or the Author(s) of the Font+AAoA-Software shall not be used to promote, endorse or advertise any+AAoA-Modified Version, except to acknowledge the contribution(s) of the+AAoA-Copyright Holder(s) and the Author(s) or with their explicit written+AAoA-permission.+AAoACgAA-5) The Font Software, modified or unmodified, in part or in whole,+AAoA-must be distributed entirely under this license, and must not be+AAoA-distributed under any other license. The requirement for fonts to+AAoA-remain under this license does not apply to any document created+AAoA-using the Font Software.+AAoACgAA-TERMINATION+AAoA-This license becomes null and void if any of the above conditions are+AAoA-not met.+AAoACgAA-DISCLAIMER+AAoA-THE FONT SOFTWARE IS PROVIDED +ACIA-AS IS+ACIA, WITHOUT WARRANTY OF ANY KIND,+AAoA-EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO ANY WARRANTIES OF+AAoA-MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT+AAoA-OF COPYRIGHT, PATENT, TRADEMARK, OR OTHER RIGHT. IN NO EVENT SHALL THE+AAoA-COPYRIGHT HOLDER BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY,+AAoA-INCLUDING ANY GENERAL, SPECIAL, INDIRECT, INCIDENTAL, OR CONSEQUENTIAL+AAoA-DAMAGES, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING+AAoA-FROM, OUT OF THE USE OR INABILITY TO USE THE FONT SOFTWARE OR FROM+AAoA-OTHER DEALINGS IN THE FONT SOFTWARE." "http://scripts.sil.org/OFL" "" "" "" "Allerton" 
-GaspTable: 1 65535 15
+LangName: 1033 "" "" "" "Newt : Oswald : 18-3-2011" "" "Version 1.000" "" "Oswald is a trademark of vernon adams." "vernon adams" "vernon adams" "" "" "" "" "http://scripts.sil.org/OFL" "" "" "" "Allerton" 
+GaspTable: 1 65535 3
 Encoding: UnicodeBmp
 Compacted: 1
 UnicodeInterp: none
@@ -899,7 +899,7 @@ NameList: Adobe Glyph List
 DisplaySize: -48
 AntiAlias: 1
 FitToEm: 1
-WinInfo: 0 35 12
+WinInfo: 25 25 10
 BeginPrivate: 9
 BlueValues 27 [-18 0 1280 1298 1792 1810]
 OtherBlues 11 [-384 -340]
@@ -10401,7 +10401,7 @@ StartChar: g
 Encoding: 103 103 74
 Width: 1088
 GlyphClass: 2
-Flags: HWO
+Flags: W
 HStem: -383 21G<558.5 592> 368 192<411.539 612.414> 1088 210<887.041 1024> 1120 178<416.172 608.458>
 VStem: 128 224<194.5 325.718 625.041 1048.18> 672 224<625.619 1023.28>
 DStem2: 687 207.5 384 57 0.990503 -0.137492<-310.566 133.71>
@@ -15259,7 +15259,7 @@ StartChar: gbreve
 Encoding: 287 287 121
 Width: 1088
 GlyphClass: 2
-Flags: HW
+Flags: W
 HStem: -384 193<324.005 780.094> 368 192<411.539 612.414> 1088 210<887.041 1024> 1120 178<416.172 608.458> 1420 192<416.242 621.758> 1784 20<199 391 647 839>
 VStem: 64 256<-216 -68.7773> 128 224<192 325.718 625.041 1048.18> 199 192<1631.83 1804> 647 192<1631.83 1804> 672 224<625.619 1023.28> 800 224<-162.673 -32.7656>
 DStem2: 563.5 223 384 32 0.992278 -0.124035<-172.935 261.854>
@@ -15675,7 +15675,7 @@ StartChar: Ntilde
 Encoding: 209 209 140
 Width: 1152
 GlyphClass: 2
-Flags: HW
+Flags: W
 HStem: 0 21<128 384 824.222 1024> 1772 20<128 328.235 768 1024> 1964 207<593.398 766.526> 2051 206<384.701 551.353>
 VStem: 128 256<0 1152> 224 153<1984 2036.04> 768 256<704 1792> 775 153<2186.99 2240>
 DStem2: 320 1792 384 1152 0.362446 -0.932005<619.68 1176.4>
@@ -16545,7 +16545,7 @@ StartChar: gdotaccent
 Encoding: 289 289 174
 Width: 1088
 GlyphClass: 2
-Flags: HW
+Flags: W
 HStem: -384 193<324.005 780.094> 368 192<411.539 612.414> 1088 210<887.041 1024> 1120 178<416.172 608.458> 1420 256<373 629>
 VStem: 64 256<-216 -68.7773> 128 224<192 325.718 625.041 1048.18> 373 256<1420 1676> 672 224<625.619 1023.28> 800 224<-162.673 -32.7656>
 DStem2: 563.5 223 384 32 0.992278 -0.124035<-172.935 261.854>
@@ -16648,7 +16648,7 @@ StartChar: gcircumflex
 Encoding: 285 285 177
 Width: 1088
 GlyphClass: 2
-Flags: HW
+Flags: W
 HStem: -384 193<324.005 780.094> 368 192<411.539 612.414> 1088 210<887.041 1024> 1120 178<416.172 608.458> 1676 128<409 665>
 VStem: 64 256<-216 -68.7773> 128 224<192 325.718 625.041 1048.18> 217 640 672 224<625.619 1023.28> 800 224<-162.673 -32.7656>
 DStem2: 217 1420 409 1420 0.447214 0.894427<85.865 372.082> 563.5 223 384 32 0.992278 -0.124035<-172.935 261.854> 665 1804 537 1676 0.447214 -0.894427<57.2433 343.46>
@@ -24380,7 +24380,7 @@ StartChar: Nacute
 Encoding: 323 323 264
 Width: 1152
 GlyphClass: 2
-Flags: HW
+Flags: W
 HStem: 0 21<128 384 824.222 1024> 1772 20<128 328.235 768 1024> 1932 384
 VStem: 128 256<0 1152> 512 384 768 256<704 1792>
 DStem2: 320 1792 384 1152 0.362446 -0.932005<619.68 1176.4>
@@ -24408,7 +24408,7 @@ StartChar: Ncaron
 Encoding: 327 327 266
 Width: 1152
 GlyphClass: 2
-Flags: HW
+Flags: W
 HStem: 0 21<128 384 824.222 1024> 1772 20<128 328.235 768 1024> 1932 128<448 704> 2296 20<256 458 694 896>
 VStem: 128 256<0 1152> 256 640 768 256<704 1792>
 DStem2: 448 2316 256 2316 0.447214 -0.894427<0 286.217> 320 1792 384 1152 0.362446 -0.932005<619.68 1176.4> 576 2060 704 1932 0.447214 0.894427<0 286.217>
