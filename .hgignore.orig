@@ -1,5 +1,5 @@
 syntax: glob
-
+:2eDS_Store
 .AppleDouble
 .DS_Store
 :2ehg*
