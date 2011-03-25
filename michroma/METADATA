@@ -1,0 +1,21 @@
+visibility: SANDBOX
+payment: DESIGNER
+
+license: OFL
+category: sans-serif
+subsets: menu,latin
+
+family: Michroma
+
+designer: Vernon Adams
+
+profiledescriptionlicense: Creative Commons Attribution-ShareAlike 3.0
+profiledescriptionlicenseurl: http://creativecommons.org/licenses/by-sa/3.0/
+approved: true
+description: <p>Michroma is a rounded-square sans.</p>
+
+# cd ~/src/font-optimizer;
+# ./subset.pl -v --licensesubst="SIL OFL 1.1" \
+#    --exclude="smcp,ordn,sups,sinf,subs,dlig,frac" \
+#    --chars="Michroma" \
+#   ~/googlefontdirectory/michroma/Michroma.{ttf,menu};
