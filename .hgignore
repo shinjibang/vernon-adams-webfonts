@@ -7,4 +7,8 @@ syntax: glob
 *.swp
 *.nam
 *.log
+<<<<<<< local
+.AppleDouble
+=======
 *.bak
+>>>>>>> other
