@@ -1,14 +1,13 @@
 syntax: glob
-:2e*
-.AppleDouble
-.DS_Store
-:2ehg*
+*:2e*
+*:2ehg*
+*.css
+*.html
+*.AppleDouble
+*.DS_Store
 *~
 *.swp
 *.nam
 *.log
-<<<<<<< local
-.AppleDouble
-=======
 *.bak
->>>>>>> other
+*specimen_files/*
