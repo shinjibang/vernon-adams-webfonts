@@ -1,4 +1,4 @@
-%%FONTLAB ENCODING: 20000947; Anton-Bold #20000947
+%%FONTLAB ENCODING: 20000947; google_webfonts
 .notdef 0
 .null 1
 CR 2
@@ -236,26 +236,13 @@ uacute 233
 ugrave 234
 ucircumflex 235
 udieresis 236
-notequal 237
 Oslash 238
-infinity 239
-lessequal 240
-greaterequal 241
-partialdiff 242
-summation 243
-product 244
-pi 245
-integral 246
-uni03A9 247
+uni0311 invertedbreve 243
 oslash 248
-radical 249
-approxequal 250
-Delta 251
 uni00A0 252
 Agrave 253
 Atilde 254
 Otilde 255
-lozenge 256
 ydieresis 257
 Ydieresis 258
 Acircumflex 259
@@ -275,3 +262,9 @@ Uacute 272
 Ucircumflex 273
 Ugrave 274
 macron 275
+Eth 276
+eth 277
+yacute 278
+Yacute 279
+uni030F doublegrave 280
+uni0326 commaaccent 281
