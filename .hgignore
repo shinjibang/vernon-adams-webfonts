@@ -1,4 +1,5 @@
 syntax: glob
+logs*
 *.css
 *.html
 *:2e*
