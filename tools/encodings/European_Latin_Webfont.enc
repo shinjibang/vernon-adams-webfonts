@@ -1,4 +1,4 @@
-%%FONTLAB ENCODING: 20000947; google_webfonts
+%%FONTLAB ENCODING: 20000949; Webfont full Euro #20000949
 .notdef 0
 .null 1
 CR 2
@@ -236,9 +236,21 @@ uacute 233
 ugrave 234
 ucircumflex 235
 udieresis 236
+_0237 237
 Oslash 238
-uni0311 invertedbreve 243
+uni0311 239
+_0240 240
+_0241 241
+_0242 242
+_0243 243
+_0244 244
+_0245 245
+_0246 246
+_0247 247
 oslash 248
+_0249 249
+_0250 250
+_0251 251
 uni00A0 252
 Agrave 253
 Atilde 254
@@ -266,5 +278,5 @@ Eth 276
 eth 277
 yacute 278
 Yacute 279
-uni030F doublegrave 280
-uni0326 commaaccent 281
+uni030F 280
+uni0326 281
