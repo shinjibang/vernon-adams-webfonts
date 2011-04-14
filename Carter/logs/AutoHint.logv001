@@ -1,0 +1,911 @@
+Autohinting starting for font carter.vfb Tue Apr  5 11:04:33 2011
+Skipping glyph .notdef. A composite or Non-marking glyph - nothing to hint.
+Skipping glyph .null. A composite or Non-marking glyph - nothing to hint.
+Skipping glyph CR. A composite or Non-marking glyph - nothing to hint.
+Skipping glyph space. A composite or Non-marking glyph - nothing to hint.
+Hinting E.
+	Junction at 167 207 may need smoothing.
+	The line from 1076 249 to 563 247 is not exactly horizontal.
+	Curve from 1076 208 to 1076 249 should be changed to a line.
+
+Hinting F.
+	Junction at 238 837 may need smoothing.
+
+Hinting G.
+	Curve from 1403 768 to 877 768 should be changed to a line.
+
+Hinting H.
+	Junction at 240 830 may need smoothing.
+	Near miss below horizontal zone at 1447 instead of 1450.
+	Near miss below horizontal zone at 1447 instead of 1450.
+	The line from 212 514 to 210 485 is not exactly vertical.
+
+Hinting I.
+	Near miss below horizontal zone at 1447 instead of 1450.
+	Curve from 58 -15 to 58 -19 should be changed to a line.
+	Curve from 580 1404 to 580 1415 should be changed to a line.
+
+Hinting J.
+	Junction at 3 -57 may need smoothing.
+	Junction at 185 414 may need smoothing.
+	Near miss below horizontal zone at 1447 instead of 1450.
+	Curve from 677 1404 to 677 1413 should be changed to a line.
+
+Hinting K.
+	Junction at 660 1039 may need smoothing.
+	Near miss below horizontal zone at 1447 instead of 1450.
+	Curve from 644 1404 to 644 1415 should be changed to a line.
+	Curve from 125 -15 to 125 -19 should be changed to a line.
+
+Hinting L.
+	Junction at 132 149 may need smoothing.
+	Near miss below horizontal zone at 1447 instead of 1450.
+
+Hinting M.
+	Character bounding box looks bogus: 62 -54 1676 1454.
+	Junction at 832 111 may need smoothing.
+	Junction at 1242 498 may need smoothing.
+	Junction at 1676 94 may need smoothing.
+	Curve from 619 1452 to 608 1452 should be changed to a line.
+	Near miss below horizontal zone at -54 instead of -52.
+	Note: Glyph is in list for using V counter hints, but didn't find any candidates.
+	Curve from 619 1452 to 608 1452 should be changed to a line.
+
+Hinting N.
+	FYI: added flex operators to this character.
+	Junction at 164 1153 may need smoothing.
+	Junction at 1266 1404 may need smoothing.
+	Near miss below horizontal zone at 1447 instead of 1450.
+	Curve from 76 -14 to 76 -18 should be changed to a line.
+	Curve from 927 1326 to 927 1314 should be changed to a line.
+
+Hinting O.
+	Junction at 807 256 may need smoothing.
+	Junction at 660 1412 may need smoothing.
+	Curve from 499 663 to 499 682 should be changed to a line.
+
+Hinting P.
+	FYI: angle at 58 1063 is very sharp. Please check.
+	Junction at 532 94 may need smoothing.
+	Near miss below horizontal zone at 1446 instead of 1450.
+
+Hinting Q.
+Hinting R.
+	Junction at 1324 159 may need smoothing.
+	Curve from 1421 136 to 1397 136 should be changed to a line.
+
+Hinting S.
+Hinting T.
+	Near miss below horizontal zone at 1449 instead of 1450.
+	Note: Glyph is in list for using V counter hints, but didn't find any candidates.
+
+Hinting U.
+	Near miss below horizontal zone at 1447 instead of 1450.
+	Near miss below horizontal zone at 1447 instead of 1450.
+
+Hinting V.
+	Near miss below horizontal zone at 1447 instead of 1450.
+	Near miss below horizontal zone at 1446 instead of 1450.
+
+Hinting W.
+	Character bounding box looks bogus: 60 -52 1858 1448.
+	Junction at 1442 180 may need smoothing.
+	Near miss below horizontal zone at 1448 instead of 1450.
+	Near miss below horizontal zone at 1448 instead of 1450.
+	Near miss below horizontal zone at 1447 instead of 1450.
+
+Hinting X.
+	Curves from 114 -38 to 209 -41 near miss for adding flex.
+	Junction at 547 88 may need smoothing.
+	Junction at 1018 -40 may need smoothing.
+	Near miss below horizontal zone at 1449 instead of 1450.
+	Near miss below horizontal zone at 1444 instead of 1450.
+	Near miss below horizontal zone at -53 instead of -52.
+	Near miss below horizontal zone at -53 instead of -52.
+
+Hinting Y.
+	Junction at 345 434 may need smoothing.
+	Junction at 769 574 may need smoothing.
+	Junction at 394 1424 may need smoothing.
+	Near miss below horizontal zone at 1447 instead of 1450.
+	Near miss below horizontal zone at 1445 instead of 1450.
+
+Hinting Z.
+	Junction at 1090 68 may need smoothing.
+	Junction at 764 427 may need smoothing.
+	Junction at 1251 1337 may need smoothing.
+	Curve from 989 408 to 791 408 should be changed to a line.
+
+Hinting backslash.
+	Junction at 240 1528 may need smoothing.
+
+Hinting D.
+Hinting dollar.
+	The line from 503 -118 to 582 -120 is not exactly horizontal.
+
+Hinting zero.
+Hinting one.
+	Near miss below horizontal zone at 1447 instead of 1450.
+	Curve from 554 1404 to 554 1413 should be changed to a line.
+
+Hinting two.
+	Junction at 972 904 may need smoothing.
+	Curve from 181 1374 to 181 1373 should be changed to a line.
+
+Hinting three.
+	Curves from 158 1246 to 156 1133 near miss for adding flex.
+	Junction at 129 52 may need smoothing.
+	Curve from 272 569 to 452 569 should be changed to a line.
+
+Hinting four.
+	Junction at 823 1450 may need smoothing.
+	Near miss above horizontal zone at 1537 instead of 1534.
+	Near miss below horizontal zone at -56 instead of -52.
+
+Hinting five.
+	Junction at 178 732 may need smoothing.
+
+Hinting six.
+	Curve from 904 1530 to 653 1530 should be changed to a line.
+
+Hinting seven.
+	Near miss below horizontal zone at 1448 instead of 1450.
+
+Hinting eight.
+	Horizontal curve stem near miss: 205 instead of 206 at 1289 to 1494.
+	Horizontal curve stem near miss: 233 instead of 234 at 666 to 899.
+	Horizontal curve stem near miss: 205 instead of 206 at 1289 to 1494.
+	Horizontal curve stem near miss: 233 instead of 234 at 666 to 899.
+
+Hinting nine.
+	Horizontal curve stem near miss: 260 instead of 262 at 418 to 678.
+
+Hinting ampersand.
+	Curves from 1292 8 to 1327 12 near miss for adding flex.
+	Near miss below horizontal zone at 1448 instead of 1450.
+	Near miss above horizontal zone at 2 instead of 0.
+
+Hinting l.
+	Junction at 418 54 may need smoothing.
+	Near miss above horizontal zone at 1536 instead of 1534.
+	Near miss below horizontal zone at -58 instead of -52.
+
+Hinting o.
+	Junction at 672 211 may need smoothing.
+	Horizontal curve stem near miss: 263 instead of 262 at -52 to 211.
+	Horizontal curve stem near miss: 263 instead of 262 at -52 to 211.
+
+Hinting A.
+	Curves from 480 220 to 830 219 near miss for adding flex.
+	Junction at 935 1412 may need smoothing.
+	Curve from 831 511 to 591 511 should be changed to a line.
+	Near miss below horizontal zone at 1449 instead of 1450.
+	Near miss below horizontal zone at -53 instead of -52.
+	Near miss below horizontal zone at -53 instead of -52.
+	Near miss below horizontal zone at -53 instead of -52.
+
+Hinting B.
+	Horizontal curve stem near miss: 285 instead of 284 at -52 to 233.
+	Horizontal curve stem near miss: 285 instead of 284 at -52 to 233.
+
+Hinting C.
+Hinting a.
+	Horizontal curve stem near miss: 263 instead of 262 at 853 to 1116.
+	Horizontal curve stem near miss: 263 instead of 262 at 853 to 1116.
+
+Hinting i.
+	Character bounding box looks bogus: 79 -52 620 1632.
+
+Hinting d.
+	Junction at 849 709 may need smoothing.
+	Junction at 813 341 may need smoothing.
+	Horizontal curve stem near miss: 263 instead of 262 at -52 to 211.
+
+Hinting p.
+	Junction at 544 345 may need smoothing.
+	Junction at 573 713 may need smoothing.
+
+Hinting n.
+Hinting c.
+	Vertical curve stem near miss: 384 instead of 385 at 61 to 445.
+	Vertical curve stem near miss: 384 instead of 385 at 61 to 445.
+
+Hinting m.
+	Character bounding box looks bogus: 79 -52 1891 1145.
+	Junction at 538 653 may need smoothing.
+	Near miss below horizontal zone at 1115 instead of 1116.
+	Note: Glyph is in list for using V counter hints, but didn't find any candidates.
+
+Hinting h.
+	Curve from 75 -15 to 75 -19 should be changed to a line.
+	Curve from 811 -15 to 811 -21 should be changed to a line.
+	Curve from 609 1550 to 609 1555 should be changed to a line.
+	Curve from 189 1477 to 189 1461 should be changed to a line.
+	Curve from 189 1461 to 189 1454 should be changed to a line.
+
+Hinting q.
+	Junction at 781 350 may need smoothing.
+	Junction at 809 718 may need smoothing.
+	Junction at 1074 -378 may need smoothing.
+	Near miss above horizontal zone at -491 instead of -496.
+	The line from 809 718 to 808 703 is not exactly vertical.
+
+Hinting b.
+	FYI: added flex operators to this character.
+	Junction at 533 714 may need smoothing.
+
+Hinting r.
+	Junction at 438 59 may need smoothing.
+	Junction at 525 624 may need smoothing.
+	Near miss below horizontal zone at 1115 instead of 1116.
+
+Hinting s.
+	Near miss above horizontal zone at 3 instead of 0.
+
+Hinting u.
+	Near miss below horizontal zone at 1115 instead of 1116.
+	Horizontal curve stem near miss: 264 instead of 262 at -52 to 212.
+
+Hinting t.
+Hinting f.
+	Character bounding box looks bogus: 35 -52 1119 1633.
+	FYI: added flex operators to this character.
+	Curve from 197 -15 to 197 -21 should be changed to a line.
+
+Hinting k.
+	Junction at 959 364 may need smoothing.
+	Curve from 200 1445 to 200 1422 should be changed to a line.
+
+Hinting v.
+	Near miss below horizontal zone at 1115 instead of 1116.
+
+Hinting e.
+	FYI: angle at 1042 322 is very sharp. Please check.
+
+Hinting x.
+Hinting w.
+	Character bounding box looks bogus: 68 -68 1703 1116.
+	Junction at 1369 78 may need smoothing.
+	Near miss below horizontal zone at 1115 instead of 1116.
+	Near miss below horizontal zone at 1115 instead of 1116.
+
+Hinting y.
+	Near miss below horizontal zone at 1115 instead of 1116.
+
+Hinting z.
+	Curve from 241 0 to 596 0 should be changed to a line.
+
+Hinting j.
+	Character bounding box looks bogus: 16 -329 951 1632.
+	Junction at 831 289 may need smoothing.
+
+Hinting exclam.
+	Character bounding box looks bogus: 40 -68 581 1602.
+	Junction at 176 1446 may need smoothing.
+	Junction at 383 544 may need smoothing.
+
+Hinting bracketleft.
+	Junction at 515 592 may need smoothing.
+	The line from 674 179 to 481 177 is not exactly horizontal.
+
+Hinting bracketright.
+	Curve from 805 1423 to 334 1423 should be changed to a line.
+	The line from 214 1145 to 407 1147 is not exactly horizontal.
+
+Hinting grave.
+	Character bounding box looks bogus: 25 1188 503 1930.
+	Curves from 385 1922 to 363 1925 near miss for adding flex.
+	Junction at 35 1674 may need smoothing.
+
+Skipping glyph agrave. A composite or Non-marking glyph - nothing to hint.
+Hinting acute.
+	Character bounding box looks bogus: 47 1188 612 1898.
+
+Skipping glyph aacute. A composite or Non-marking glyph - nothing to hint.
+Skipping glyph egrave. A composite or Non-marking glyph - nothing to hint.
+Skipping glyph eacute. A composite or Non-marking glyph - nothing to hint.
+Skipping glyph ugrave. A composite or Non-marking glyph - nothing to hint.
+Skipping glyph uacute. A composite or Non-marking glyph - nothing to hint.
+Skipping glyph yacute. A composite or Non-marking glyph - nothing to hint.
+Skipping glyph ograve. A composite or Non-marking glyph - nothing to hint.
+Skipping glyph oacute. A composite or Non-marking glyph - nothing to hint.
+Hinting exclamdown.
+	Character bounding box looks bogus: 40 -68 581 1602.
+	Junction at 445 88 may need smoothing.
+	Junction at 238 990 may need smoothing.
+
+Hinting OE.
+	Character bounding box looks bogus: 70 -53 2064 1450.
+	Junction at 830 256 may need smoothing.
+	The line from 1976 249 to 1503 247 is not exactly horizontal.
+	Near miss below horizontal zone at 1448 instead of 1450.
+	Near miss below horizontal zone at -53 instead of -52.
+
+Hinting oe.
+	Character bounding box looks bogus: 70 -91 1971 1128.
+	Junction at 1950 528 may need smoothing.
+	Junction at 681 211 may need smoothing.
+	Near miss below horizontal zone at -57 instead of -52.
+	Horizontal curve stem near miss: 282 instead of 284 at -91 to 191.
+	Horizontal curve stem near miss: 282 instead of 284 at -91 to 191.
+
+Hinting hyphen.
+Hinting period.
+	Horizontal curve stem near miss: 398 instead of 400 at -48 to 350.
+	Horizontal curve stem near miss: 398 instead of 400 at -48 to 350.
+	Horizontal curve stem near miss: 398 instead of 400 at -48 to 350.
+
+Hinting yen.
+	Junction at 385 -33 may need smoothing.
+	Junction at 649 36 may need smoothing.
+	Junction at 392 1424 may need smoothing.
+	Junction at 71 1332 may need smoothing.
+	The line from 341 426 to 220 424 is not exactly horizontal.
+	The line from 321 724 to 268 723 is not exactly horizontal.
+	Near miss below horizontal zone at 1447 instead of 1450.
+	Near miss below horizontal zone at 1445 instead of 1450.
+	Horizontal curve stem near miss: 207 instead of 206 at 517 to 724.
+	Horizontal curve stem near miss: 206.5 instead of 206 at 517 to 723.5.
+	Horizontal curve stem near miss: 207 instead of 206 at 218 to 425.
+	Horizontal curve stem near miss: 206.5 instead of 206 at 517 to 723.5.
+	Horizontal curve stem near miss: 207 instead of 206 at 218 to 425.
+
+Hinting colon.
+	Near miss below horizontal zone at 1115 instead of 1116.
+	Near miss below horizontal zone at 1115 instead of 1116.
+	Horizontal curve stem near miss: 398 instead of 400 at 717 to 1115.
+	Horizontal curve stem near miss: 398 instead of 400 at 717 to 1115.
+	Horizontal curve stem near miss: 398 instead of 400 at -48 to 350.
+	Horizontal curve stem near miss: 398 instead of 400 at -48 to 350.
+	Horizontal curve stem near miss: 398 instead of 400 at 717 to 1115.
+	Horizontal curve stem near miss: 398 instead of 400 at -48 to 350.
+
+Hinting dagger.
+	Junction at 408 1432 may need smoothing.
+	Junction at 534 97 may need smoothing.
+	The line from 287 1123 to 166 1121 is not exactly horizontal.
+	The line from 240 915 to 364 916 is not exactly horizontal.
+	The line from 605 918 to 650 919 is not exactly horizontal.
+	Near miss below horizontal zone at 1445 instead of 1450.
+	Near miss above horizontal zone at 1137 instead of 1136.
+	Horizontal linear stem near miss: 207.5 instead of 206 at 915.5 to 1123.
+	Horizontal linear stem near miss: 207.5 instead of 206 at 915.5 to 1123.
+	Horizontal curve stem near miss: 208 instead of 206 at 915 to 1123.
+	Horizontal linear stem near miss: 207.5 instead of 206 at 915.5 to 1123.
+
+Hinting daggerdbl.
+	Junction at 575 117 may need smoothing.
+	The line from 646 918 to 691 919 is not exactly horizontal.
+	The line from 328 1123 to 207 1121 is not exactly horizontal.
+	The line from 211 915 to 405 916 is not exactly horizontal.
+	The line from 290 553 to 169 551 is not exactly horizontal.
+	The line from 173 345 to 373 346 is not exactly horizontal.
+	The line from 610 348 to 653 349 is not exactly horizontal.
+	Near miss below horizontal zone at 1445 instead of 1450.
+	Near miss above horizontal zone at 1137 instead of 1136.
+	Horizontal linear stem near miss: 207.5 instead of 206 at 915.5 to 1123.
+	Horizontal linear stem near miss: 207.5 instead of 206 at 915.5 to 1123.
+	Horizontal curve stem near miss: 208 instead of 206 at 915 to 1123.
+	Horizontal linear stem near miss: 207.5 instead of 206 at 345.5 to 553.
+	Horizontal linear stem near miss: 206.5 instead of 206 at 345.5 to 552.
+	Horizontal curve stem near miss: 207 instead of 206 at 345 to 552.
+	Horizontal linear stem near miss: 207.5 instead of 206 at 915.5 to 1123.
+	Horizontal linear stem near miss: 206.5 instead of 206 at 345.5 to 552.
+
+Hinting percent.
+	Character bounding box looks bogus: 40 -52 2064 1593.
+	Junction at 697 153 may need smoothing.
+	Junction at 1504 1153 may need smoothing.
+	Junction at 1314 1291 may need smoothing.
+	Horizontal curve stem near miss: 204 instead of 206 at 1389 to 1593.
+	Horizontal curve stem near miss: 204 instead of 206 at 626 to 830.
+	Horizontal curve stem near miss: 204 instead of 206 at 1389 to 1593.
+	Horizontal curve stem near miss: 204 instead of 206 at 626 to 830.
+
+Hinting g.
+	Junction at 830 345 may need smoothing.
+	Junction at 858 713 may need smoothing.
+	The line from 858 713 to 857 698 is not exactly vertical.
+
+Hinting perthousand.
+	Character bounding box looks bogus: 54 -52 3005 1593.
+	Junction at 711 153 may need smoothing.
+	Junction at 1518 1153 may need smoothing.
+	Junction at 1328 1291 may need smoothing.
+	Horizontal curve stem near miss: 204 instead of 206 at 1389 to 1593.
+	Horizontal curve stem near miss: 204 instead of 206 at 626 to 830.
+	Horizontal curve stem near miss: 204 instead of 206 at 626 to 830.
+	Horizontal curve stem near miss: 204 instead of 206 at 1389 to 1593.
+	Horizontal curve stem near miss: 204 instead of 206 at 626 to 830.
+
+Hinting section.
+	Curves from 162 150 to 132 147 near miss for adding flex.
+	Junction at 362 599 may need smoothing.
+
+Hinting comma.
+	The line from 111 -30 to 196 -31 is not exactly horizontal.
+
+Hinting ellipsis.
+	Character bounding box looks bogus: 73 -49 1661 352.
+	Horizontal curve stem near miss: 398 instead of 400 at -48 to 350.
+	Horizontal curve stem near miss: 398 instead of 400 at -48 to 350.
+	Horizontal curve stem near miss: 398 instead of 400 at -48 to 350.
+	Horizontal curve stem near miss: 398 instead of 400 at -48 to 350.
+	Horizontal curve stem near miss: 398 instead of 400 at -48 to 350.
+	Horizontal curve stem near miss: 398 instead of 400 at -48 to 350.
+	Horizontal curve stem near miss: 398 instead of 400 at -48 to 350.
+	Using V counter hints.
+
+Skipping glyph semicolon. A composite or Non-marking glyph - nothing to hint.
+Hinting paragraph.
+	FYI: angle at 1285 1083 is very sharp. Please check.
+	Near miss below horizontal zone at 1446 instead of 1450.
+
+Hinting plus.
+	Junction at 860 570 may need smoothing.
+	Junction at 614 1108 may need smoothing.
+	The line from 640 831 to 623 830 is not exactly horizontal.
+	The line from 331 846 to 329 825 is not exactly vertical.
+	Vertical curve stem near miss: 290 instead of 292 at 351 to 641.
+
+Hinting mu.
+	Curves from 433 -269 to 434 -248 near miss for adding flex.
+	Junction at 394 -296 may need smoothing.
+	Curve from 433 -269 to 433 -260 should be changed to a line.
+	Curve from 607 1098 to 607 1100 should be changed to a line.
+
+Hinting multiply.
+Hinting quoteleft.
+	The line from 448 1255 to 363 1256 is not exactly horizontal.
+
+Hinting quoteright.
+	The line from 114 1075 to 199 1074 is not exactly horizontal.
+	Near miss below horizontal zone at 1447 instead of 1450.
+	Near miss below horizontal zone at 1445 instead of 1450.
+	Near miss below horizontal zone at 1445 instead of 1450.
+
+Hinting dieresis.
+Skipping glyph edieresis. A composite or Non-marking glyph - nothing to hint.
+Hinting e.alt.
+	FYI: angle at 1040 322 is very sharp. Please check.
+	Junction at 1085 548 may need smoothing.
+
+Hinting quotedblleft.
+	The line from 997 1255 to 912 1256 is not exactly horizontal.
+	The line from 470 1255 to 385 1256 is not exactly horizontal.
+
+Hinting quotedblright.
+	The line from 653 1075 to 738 1074 is not exactly horizontal.
+	The line from 127 1075 to 212 1074 is not exactly horizontal.
+	Near miss below horizontal zone at 1447 instead of 1450.
+	Near miss below horizontal zone at 1447 instead of 1450.
+	Near miss below horizontal zone at 1445 instead of 1450.
+	Near miss below horizontal zone at 1445 instead of 1450.
+	Near miss below horizontal zone at 1445 instead of 1450.
+	Near miss below horizontal zone at 1445 instead of 1450.
+
+Hinting caron.
+	Character bounding box looks bogus: 57 1239 1015 1858.
+
+Skipping glyph scaron. A composite or Non-marking glyph - nothing to hint.
+Hinting circumflex.
+	Character bounding box looks bogus: 40 1226 1000 1850.
+
+Skipping glyph ocircumflex. A composite or Non-marking glyph - nothing to hint.
+Hinting bullet.
+Hinting AE.
+	Character bounding box looks bogus: 35 -53 1785 1450.
+	Curves from 481 220 to 791 219 near miss for adding flex.
+	Near miss below horizontal zone at -53 instead of -52.
+	Near miss below horizontal zone at -53 instead of -52.
+	Horizontal curve stem near miss: 286 instead of 284 at 570 to 856.
+
+Hinting fi.
+	Character bounding box looks bogus: 47 -68 1567 1672.
+	Junction at 931 1334 may need smoothing.
+	Junction at 571 51 may need smoothing.
+	Near miss below horizontal zone at -58 instead of -52.
+
+Skipping glyph fl. A composite or Non-marking glyph - nothing to hint.
+Skipping glyph Lslash. A composite or Non-marking glyph - nothing to hint.
+Skipping glyph lslash. A composite or Non-marking glyph - nothing to hint.
+Skipping glyph Zcaron. A composite or Non-marking glyph - nothing to hint.
+Skipping glyph zcaron. A composite or Non-marking glyph - nothing to hint.
+Hinting quotesingle.
+	Near miss below horizontal zone at 1449 instead of 1450.
+	Near miss below horizontal zone at 1449 instead of 1450.
+	Near miss below horizontal zone at 1447 instead of 1450.
+
+Hinting quotedbl.
+	Near miss below horizontal zone at 1448 instead of 1450.
+	Near miss below horizontal zone at 1448 instead of 1450.
+
+Hinting hungarumlaut.
+	Character bounding box looks bogus: 47 1188 1274 1918.
+
+Hinting ring.
+	Character bounding box looks bogus: 73 1192 637 1737.
+
+Skipping glyph aring. A composite or Non-marking glyph - nothing to hint.
+Hinting oslash.
+	Junction at 937 1252 may need smoothing.
+	Near miss below horizontal zone at -55 instead of -52.
+	Near miss below horizontal zone at -57 instead of -52.
+	Near miss below horizontal zone at -57 instead of -52.
+
+Hinting slash.
+	Junction at 690 1528 may need smoothing.
+
+Hinting Oslash.
+	Junction at 1131 1586 may need smoothing.
+	Near miss below horizontal zone at 1448 instead of 1450.
+
+Hinting florin.
+	Character bounding box looks bogus: 29 -347 1369 1642.
+	Junction at 172 -23 may need smoothing.
+
+Hinting fraction.
+	Junction at 690 1528 may need smoothing.
+
+Hinting guilsinglleft.
+	Curve from 931 731 to 931 740 should be changed to a line.
+
+Hinting guilsinglright.
+	Curve from 85 740 to 85 731 should be changed to a line.
+
+Skipping glyph Ydieresis. A composite or Non-marking glyph - nothing to hint.
+Skipping glyph Agrave. A composite or Non-marking glyph - nothing to hint.
+Skipping glyph Aacute. A composite or Non-marking glyph - nothing to hint.
+Skipping glyph Acircumflex. A composite or Non-marking glyph - nothing to hint.
+Skipping glyph Adieresis. A composite or Non-marking glyph - nothing to hint.
+Skipping glyph Aring. A composite or Non-marking glyph - nothing to hint.
+Skipping glyph Ugrave. A composite or Non-marking glyph - nothing to hint.
+Skipping glyph Uacute. A composite or Non-marking glyph - nothing to hint.
+Skipping glyph Ucircumflex. A composite or Non-marking glyph - nothing to hint.
+Skipping glyph Udieresis. A composite or Non-marking glyph - nothing to hint.
+Skipping glyph Yacute. A composite or Non-marking glyph - nothing to hint.
+Skipping glyph odieresis. A composite or Non-marking glyph - nothing to hint.
+Skipping glyph idieresis. A composite or Non-marking glyph - nothing to hint.
+Hinting dotlessi.
+Skipping glyph igrave. A composite or Non-marking glyph - nothing to hint.
+Skipping glyph iacute. A composite or Non-marking glyph - nothing to hint.
+Skipping glyph icircumflex. A composite or Non-marking glyph - nothing to hint.
+Skipping glyph ecircumflex. A composite or Non-marking glyph - nothing to hint.
+Skipping glyph acircumflex. A composite or Non-marking glyph - nothing to hint.
+Skipping glyph adieresis. A composite or Non-marking glyph - nothing to hint.
+Skipping glyph ucircumflex. A composite or Non-marking glyph - nothing to hint.
+Skipping glyph udieresis. A composite or Non-marking glyph - nothing to hint.
+Skipping glyph ydieresis. A composite or Non-marking glyph - nothing to hint.
+Skipping glyph Odieresis. A composite or Non-marking glyph - nothing to hint.
+Skipping glyph Ocircumflex. A composite or Non-marking glyph - nothing to hint.
+Skipping glyph Oacute. A composite or Non-marking glyph - nothing to hint.
+Skipping glyph Ograve. A composite or Non-marking glyph - nothing to hint.
+Skipping glyph Idieresis. A composite or Non-marking glyph - nothing to hint.
+Skipping glyph Icircumflex. A composite or Non-marking glyph - nothing to hint.
+Skipping glyph Iacute. A composite or Non-marking glyph - nothing to hint.
+Skipping glyph Igrave. A composite or Non-marking glyph - nothing to hint.
+Skipping glyph Edieresis. A composite or Non-marking glyph - nothing to hint.
+Skipping glyph Ecircumflex. A composite or Non-marking glyph - nothing to hint.
+Skipping glyph Eacute. A composite or Non-marking glyph - nothing to hint.
+Skipping glyph Egrave. A composite or Non-marking glyph - nothing to hint.
+Skipping glyph Scaron. A composite or Non-marking glyph - nothing to hint.
+Hinting germandbls.
+	Junction at 569 947 may need smoothing.
+	Curve from 457 -38 to 461 -38 should be changed to a line.
+	Near miss below horizontal zone at 1448 instead of 1450.
+
+Hinting Thorn.
+	Character bounding box looks bogus: 74 -52 1258 1644.
+	Junction at 212 1498 may need smoothing.
+	FYI: angle at 93 1009 is very sharp. Please check.
+	Junction at 473 94 may need smoothing.
+
+Hinting Eth.
+	The line from 272 831 to 225 829 is not exactly horizontal.
+	Near miss below horizontal zone at 1449 instead of 1450.
+
+Hinting tilde.
+	Character bounding box looks bogus: 63 1214 1060 1704.
+
+Skipping glyph atilde. A composite or Non-marking glyph - nothing to hint.
+Skipping glyph ntilde. A composite or Non-marking glyph - nothing to hint.
+Skipping glyph otilde. A composite or Non-marking glyph - nothing to hint.
+Skipping glyph Atilde. A composite or Non-marking glyph - nothing to hint.
+Skipping glyph Ntilde. A composite or Non-marking glyph - nothing to hint.
+Skipping glyph Otilde. A composite or Non-marking glyph - nothing to hint.
+Hinting thorn.
+	Junction at 544 341 may need smoothing.
+	Junction at 573 709 may need smoothing.
+	Near miss below horizontal zone at 1449 instead of 1450.
+	Near miss below horizontal zone at -56 instead of -52.
+	Vertical curve stem near miss: 249 instead of 251 at 229 to 478.
+
+Hinting bar.
+Hinting brokenbar.
+Hinting question.
+	Near miss below horizontal zone at 1447 instead of 1450.
+	Horizontal curve stem near miss: 399 instead of 400 at -49 to 350.
+	Horizontal curve stem near miss: 399 instead of 400 at -49 to 350.
+	Horizontal curve stem near miss: 399 instead of 400 at -49 to 350.
+
+Hinting numbersign.
+	Character bounding box looks bogus: 47 -39 1637 1528.
+	Junction at 503 -32 may need smoothing.
+	Junction at 1048 -32 may need smoothing.
+	Junction at 220 1068 may need smoothing.
+	The line from 350 699 to 214 701 is not exactly horizontal.
+
+Hinting breve.
+Skipping glyph questiondown. A composite or Non-marking glyph - nothing to hint.
+Hinting registered.
+	Junction at 1167 394 may need smoothing.
+	Curve from 1224 381 to 1210 381 should be changed to a line.
+
+Hinting copyright.
+	Curve from 1079 464 to 1072 464 should be changed to a line.
+	Curve from 1139 1085 to 1139 1090 should be changed to a line.
+
+Hinting quotesinglbase.
+	The line from 111 -30 to 196 -31 is not exactly horizontal.
+
+Hinting quotedblbase.
+	The line from 693 -30 to 778 -31 is not exactly horizontal.
+	The line from 127 -30 to 212 -31 is not exactly horizontal.
+
+Hinting Euro.
+	Near miss below horizontal zone at 1449 instead of 1450.
+
+Hinting cent.
+	Junction at 679 -245 may need smoothing.
+	Junction at 638 1302 may need smoothing.
+	Vertical curve stem near miss: 384 instead of 385 at 35 to 419.
+	Vertical curve stem near miss: 384 instead of 385 at 35 to 419.
+
+Hinting greater.
+	Curve from 85 740 to 85 731 should be changed to a line.
+
+Hinting less.
+	Curve from 931 731 to 931 740 should be changed to a line.
+
+Hinting equal.
+	Junction at 134 849 may need smoothing.
+	Junction at 134 380 may need smoothing.
+	Horizontal curve stem near miss: 260 instead of 262 at 636 to 896.
+	Horizontal curve stem near miss: 261 instead of 262 at 626 to 887.
+	Horizontal curve stem near miss: 260 instead of 262 at 167 to 427.
+	Horizontal curve stem near miss: 261 instead of 262 at 157 to 418.
+	Horizontal curve stem near miss: 261 instead of 262 at 626 to 887.
+	Horizontal curve stem near miss: 261 instead of 262 at 157 to 418.
+
+Hinting dotaccent.
+	Character bounding box looks bogus: 73 1389 503 1790.
+	Horizontal curve stem near miss: 398 instead of 400 at 1390 to 1788.
+	Horizontal curve stem near miss: 398 instead of 400 at 1390 to 1788.
+	Horizontal curve stem near miss: 398 instead of 400 at 1390 to 1788.
+
+Hinting eth.
+	Vertical curve stem near miss: 418 instead of 416 at 75 to 493.
+	Vertical curve stem near miss: 418 instead of 416 at 75 to 493.
+	Vertical curve stem near miss: 418 instead of 416 at 75 to 493.
+
+Hinting ae.
+	Character bounding box looks bogus: 75 -61 1887 1117.
+	FYI: angle at 1821 322 is very sharp. Please check.
+	Junction at 1866 548 may need smoothing.
+
+Hinting cedilla.
+	FYI: angle at 66 -565 is very sharp. Please check.
+	FYI: angle at 64 -564 is very sharp. Please check.
+
+Skipping glyph ccedilla. A composite or Non-marking glyph - nothing to hint.
+Skipping glyph Ccedilla. A composite or Non-marking glyph - nothing to hint.
+Hinting ogonek.
+	FYI: angle at 437 -564 is very sharp. Please check.
+	FYI: angle at 435 -565 is very sharp. Please check.
+	Curve from 483 -17 to 464 -17 should be changed to a line.
+	Curve from 50 -386 to 50 -399 should be changed to a line.
+	Curve from 455 -424 to 455 -412 should be changed to a line.
+
+Hinting asciicircum.
+	Curves from 57 176 to 55 115 near miss for adding flex.
+	Curve from 369 76 to 378 76 should be changed to a line.
+
+Hinting parenleft.
+	Vertical curve stem near miss: 418 instead of 416 at 47 to 465.
+	Vertical curve stem near miss: 418 instead of 416 at 47 to 465.
+
+Hinting parenright.
+	Curve from 75 93 to 75 61 should be changed to a line.
+
+Hinting periodcentered.
+	Horizontal curve stem near miss: 398 instead of 400 at 805 to 1203.
+	Horizontal curve stem near miss: 398 instead of 400 at 805 to 1203.
+	Horizontal curve stem near miss: 398 instead of 400 at 805 to 1203.
+
+Hinting onesuperior.
+	Near miss below horizontal zone at 1447 instead of 1450.
+	Curve from 377 1420 to 377 1426 should be changed to a line.
+
+Hinting twosuperior.
+	Curve from 420 775 to 415 775 should be changed to a line.
+	Curve from 138 1419 to 138 1418 should be changed to a line.
+
+Hinting threesuperior.
+	Curves from 120 1302 to 118 1233 near miss for adding flex.
+	Curve from 189 892 to 298 892 should be changed to a line.
+	Horizontal curve stem near miss: 208 instead of 206 at 892 to 1100.
+	Horizontal curve stem near miss: 208 instead of 206 at 892 to 1100.
+	Horizontal curve stem near miss: 208 instead of 206 at 892 to 1100.
+	Curve from 120 1302 to 120 1264 should be changed to a line.
+	Curve from 62 793 to 62 788 should be changed to a line.
+
+Hinting foursuperior.
+	Junction at 530 1482 may need smoothing.
+	Near miss above horizontal zone at 1537 instead of 1534.
+	Vertical curve stem near miss: 253 instead of 251 at 447 to 700.
+	Vertical curve stem near miss: 253 instead of 251 at 447 to 700.
+	Vertical curve stem near miss: 253 instead of 251 at 447 to 700.
+
+Hinting onequarter.
+	Junction at 908 1528 may need smoothing.
+	Junction at 1255 943 may need smoothing.
+	Near miss below horizontal zone at 1447 instead of 1450.
+	Curve from 374 1420 to 374 1426 should be changed to a line.
+	Vertical curve stem near miss: 253 instead of 251 at 1172 to 1425.
+	Vertical curve stem near miss: 253 instead of 251 at 1172 to 1425.
+	Vertical curve stem near miss: 253 instead of 251 at 1172 to 1425.
+
+Hinting onehalf.
+	Character bounding box looks bogus: 66 -29 1604 1528.
+	Junction at 908 1528 may need smoothing.
+	Curve from 1324 212 to 1319 212 should be changed to a line.
+	Near miss below horizontal zone at 1447 instead of 1450.
+	Near miss above horizontal zone at 1 instead of 0.
+	Curve from 374 1420 to 374 1426 should be changed to a line.
+	Curve from 1042 856 to 1042 855 should be changed to a line.
+
+Hinting threequarters.
+	Character bounding box looks bogus: 47 -29 1820 1528.
+	Curves from 105 1302 to 103 1233 near miss for adding flex.
+	Junction at 1144 1528 may need smoothing.
+	Junction at 1491 943 may need smoothing.
+	Curve from 174 892 to 283 892 should be changed to a line.
+	Horizontal curve stem near miss: 208 instead of 206 at 892 to 1100.
+	Horizontal curve stem near miss: 208 instead of 206 at 892 to 1100.
+	Horizontal curve stem near miss: 208 instead of 206 at 892 to 1100.
+	Curve from 105 1302 to 105 1264 should be changed to a line.
+	Curve from 47 793 to 47 788 should be changed to a line.
+	Vertical curve stem near miss: 253 instead of 251 at 1408 to 1661.
+	Vertical curve stem near miss: 253 instead of 251 at 1408 to 1661.
+	Vertical curve stem near miss: 253 instead of 251 at 1408 to 1661.
+
+Hinting ordfeminine.
+	Near miss below horizontal zone at 1447 instead of 1450.
+	Horizontal curve stem near miss: 204 instead of 206 at 1253 to 1457.
+	Horizontal curve stem near miss: 204 instead of 206 at 1253 to 1457.
+	Curve from 871 735 to 871 745 should be changed to a line.
+
+Hinting guillemotright.
+	Character bounding box looks bogus: 82 -29 1993 1077.
+	Curve from 1084 740 to 1084 731 should be changed to a line.
+	Curve from 94 740 to 94 731 should be changed to a line.
+
+Hinting at.
+	Character bounding box looks bogus: 61 -176 1729 1478.
+	Junction at 1104 1029 may need smoothing.
+	Horizontal curve stem near miss: 286 instead of 284 at -176 to 110.
+	Horizontal curve stem near miss: 286 instead of 284 at -176 to 110.
+
+Hinting guillemotleft.
+	Character bounding box looks bogus: 53 -29 1952 1077.
+	Curve from 962 731 to 962 740 should be changed to a line.
+	Curve from 1952 731 to 1952 740 should be changed to a line.
+
+Hinting ordmasculine.
+Hinting degree.
+	Junction at 85 1045 may need smoothing.
+	Near miss below horizontal zone at 1448 instead of 1450.
+
+Hinting trademark.
+	Character bounding box looks bogus: 68 532 1763 1454.
+	Junction at 1498 870 may need smoothing.
+	Junction at 1763 623 may need smoothing.
+	Curve from 1118 1453 to 1111 1453 should be changed to a line.
+
+Hinting asciitilde.
+Hinting currency.
+Hinting sterling.
+	Junction at 707 1164 may need smoothing.
+	Junction at 319 1123 may need smoothing.
+	Near miss below horizontal zone at -58 instead of -52.
+	Near miss below horizontal zone at -58 instead of -52.
+	Near miss below horizontal zone at -58 instead of -52.
+
+Hinting divide.
+	Junction at 504 815 may need smoothing.
+	Horizontal curve stem near miss: 398 instead of 400 at 927 to 1325.
+	Horizontal curve stem near miss: 398 instead of 400 at 927 to 1325.
+	Horizontal curve stem near miss: 286 instead of 284 at 540 to 826.
+	Horizontal curve stem near miss: 398 instead of 400 at -48 to 350.
+	Horizontal curve stem near miss: 398 instead of 400 at -48 to 350.
+	Horizontal curve stem near miss: 398 instead of 400 at 927 to 1325.
+	Horizontal curve stem near miss: 398 instead of 400 at -48 to 350.
+	Note: Glyph is in list for using H counter hints, but didn't find any candidates.
+
+Hinting braceleft.
+Hinting braceright.
+	Junction at 837 556 may need smoothing.
+
+Hinting asterisk.
+	FYI: added flex operators to this character.
+	Junction at 1027 975 may need smoothing.
+	Junction at 781 1128 may need smoothing.
+	Junction at 192 965 may need smoothing.
+	Vertical linear stem near miss: 387 instead of 385 at 767 to 1154.
+
+Hinting minus.
+Hinting endash.
+Hinting emdash.
+Hinting underscore.
+	Near miss below horizontal zone at -53 instead of -52.
+	Near miss below horizontal zone at -58 instead of -52.
+
+Hinting plusminus.
+	Junction at 939 703 may need smoothing.
+	Junction at 693 1241 may need smoothing.
+	The line from 719 964 to 702 963 is not exactly horizontal.
+	The line from 410 979 to 408 958 is not exactly vertical.
+	Vertical curve stem near miss: 290 instead of 292 at 430 to 720.
+
+Hinting logicalnot.
+	Curves from 893 729 to 511 733 near miss for adding flex.
+
+Hinting uni0311.
+Hinting uni030F.
+	Character bounding box looks bogus: 44 1188 1004 1930.
+	Curves from 946 1922 to 925 1925 near miss for adding flex.
+	Curves from 404 1922 to 382 1925 near miss for adding flex.
+	Junction at 590 1674 may need smoothing.
+	Junction at 54 1674 may need smoothing.
+
+Skipping glyph uni0218. A composite or Non-marking glyph - nothing to hint.
+Skipping glyph uni0219. A composite or Non-marking glyph - nothing to hint.
+Skipping glyph uni021A. A composite or Non-marking glyph - nothing to hint.
+Skipping glyph uni021B. A composite or Non-marking glyph - nothing to hint.
+Skipping glyph uni0200. A composite or Non-marking glyph - nothing to hint.
+Skipping glyph uni0201. A composite or Non-marking glyph - nothing to hint.
+Skipping glyph uni0202. A composite or Non-marking glyph - nothing to hint.
+Skipping glyph uni0203. A composite or Non-marking glyph - nothing to hint.
+Skipping glyph uni0204. A composite or Non-marking glyph - nothing to hint.
+Skipping glyph uni0205. A composite or Non-marking glyph - nothing to hint.
+Skipping glyph uni0206. A composite or Non-marking glyph - nothing to hint.
+Skipping glyph uni0207. A composite or Non-marking glyph - nothing to hint.
+Skipping glyph uni0208. A composite or Non-marking glyph - nothing to hint.
+Skipping glyph uni0209. A composite or Non-marking glyph - nothing to hint.
+Skipping glyph uni020A. A composite or Non-marking glyph - nothing to hint.
+Hinting uni020B.
+Skipping glyph uni020C. A composite or Non-marking glyph - nothing to hint.
+Skipping glyph uni020D. A composite or Non-marking glyph - nothing to hint.
+Skipping glyph uni020E. A composite or Non-marking glyph - nothing to hint.
+Skipping glyph uni020F. A composite or Non-marking glyph - nothing to hint.
+Skipping glyph uni0210. A composite or Non-marking glyph - nothing to hint.
+Skipping glyph uni0211. A composite or Non-marking glyph - nothing to hint.
+Skipping glyph uni0212. A composite or Non-marking glyph - nothing to hint.
+Skipping glyph uni0213. A composite or Non-marking glyph - nothing to hint.
+Skipping glyph uni0214. A composite or Non-marking glyph - nothing to hint.
+Skipping glyph uni0215. A composite or Non-marking glyph - nothing to hint.
+Skipping glyph uni0216. A composite or Non-marking glyph - nothing to hint.
+Skipping glyph uni0217. A composite or Non-marking glyph - nothing to hint.
+Skipping glyph uni0326. A composite or Non-marking glyph - nothing to hint.
+Skipping glyph Gbreve. A composite or Non-marking glyph - nothing to hint.
+Skipping glyph gbreve. A composite or Non-marking glyph - nothing to hint.
+Skipping glyph Idotaccent. A composite or Non-marking glyph - nothing to hint.
+Skipping glyph Scedilla. A composite or Non-marking glyph - nothing to hint.
+Skipping glyph scedilla. A composite or Non-marking glyph - nothing to hint.
+Hinting Delta.
+	Junction at 231 -6 may need smoothing.
+	FYI: angle at 1331 61 is very sharp. Please check.
+	Junction at 935 1196 may need smoothing.
+	Curve from 831 295 to 591 295 should be changed to a line.
+	Near miss above horizontal zone at 3 instead of 0.
+
