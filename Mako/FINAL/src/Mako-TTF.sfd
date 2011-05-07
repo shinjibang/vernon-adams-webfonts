@@ -14,32 +14,32 @@ sfntRevision: 0x00010000
 LayerCount: 2
 Layer: 0 1 "Back"  1
 Layer: 1 1 "Fore"  0
-XUID: [1021 759 1887733602 10674764]
+XUID: [1021 759 1887733602 9018892]
 FSType: 0
 OS2Version: 2
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 1
 CreationTime: 1304633400
-ModificationTime: 1304771874
+ModificationTime: 1304779755
 PfmFamily: 17
 TTFWeight: 400
 TTFWidth: 5
 LineGap: 0
 VLineGap: 0
 Panose: 2 0 0 0 0 0 0 0 0 0
-OS2TypoAscent: 503
-OS2TypoAOffset: 1
-OS2TypoDescent: -128
-OS2TypoDOffset: 1
+OS2TypoAscent: 2141
+OS2TypoAOffset: 0
+OS2TypoDescent: -538
+OS2TypoDOffset: 0
 OS2TypoLinegap: 0
-OS2WinAscent: 0
-OS2WinAOffset: 1
-OS2WinDescent: 0
-OS2WinDOffset: 1
-HheadAscent: 0
-HheadAOffset: 1
-HheadDescent: 0
-HheadDOffset: 1
+OS2WinAscent: 2141
+OS2WinAOffset: 0
+OS2WinDescent: 538
+OS2WinDOffset: 0
+HheadAscent: 2141
+HheadAOffset: 0
+HheadDescent: -538
+HheadDOffset: 0
 OS2SubXSize: 8993
 OS2SubYSize: 8348
 OS2SubXOff: 0
@@ -5023,8 +5023,8 @@ LayerCount: 2
 Fore
 SplineSet
 156 0 m 1,0,-1
- 156 1463 l 1,1,-1
- 341 1482 l 1,2,-1
+ 156 1418 l 1,1,-1
+ 341 1437 l 1,2,-1
  341 956 l 1,3,4
  377 980 377 980 423 999 c 0,5,6
  462 1016 462 1016 515.5 1029.5 c 128,-1,7
@@ -5775,8 +5775,8 @@ SplineSet
  565 1043 565 1043 619 1030.5 c 128,-1,12
  673 1018 673 1018 713 1004 c 0,13,14
  760 987 760 987 798 966 c 1,15,-1
- 798 1463 l 1,16,-1
- 981 1482 l 1,17,-1
+ 798 1418 l 1,16,-1
+ 981 1437 l 1,17,-1
  981 0 l 1,18,-1
  838 -8 l 1,19,-1
  806 102 l 1,20,21
@@ -6675,22 +6675,22 @@ SplineSet
  53 927 l 1,2,-1
  53 1031 l 1,3,-1
  230 1031 l 1,4,-1
- 230 1060 l 1,5,6
- 232 1166 232 1166 249 1242.5 c 128,-1,7
- 266 1319 266 1319 300.5 1368 c 128,-1,8
- 335 1417 335 1417 388.5 1440 c 128,-1,9
- 442 1463 442 1463 516 1463 c 0,10,11
- 561 1463 561 1463 597.5 1457 c 128,-1,12
- 634 1451 634 1451 660 1443 c 0,13,14
- 690 1434 690 1434 713 1424 c 1,15,-1
- 727 1304 l 1,16,17
- 703 1311 703 1311 677 1317 c 0,18,19
- 654 1322 654 1322 626 1326 c 128,-1,20
- 598 1330 598 1330 569 1330 c 0,21,22
- 524 1330 524 1330 494 1320.5 c 128,-1,23
- 464 1311 464 1311 446 1286 c 128,-1,24
- 428 1261 428 1261 420 1216 c 128,-1,25
- 412 1171 412 1171 412 1101 c 2,26,-1
+ 230 1034 l 1,5,6
+ 232 1140 232 1140 249 1216.5 c 128,-1,7
+ 266 1293 266 1293 300.5 1342 c 128,-1,8
+ 335 1391 335 1391 388.5 1414 c 128,-1,9
+ 442 1437 442 1437 516 1437 c 0,10,11
+ 561 1437 561 1437 597.5 1431 c 128,-1,12
+ 634 1425 634 1425 660 1417 c 0,13,14
+ 690 1408 690 1408 713 1398 c 1,15,-1
+ 727 1278 l 1,16,17
+ 703 1285 703 1285 677 1291 c 0,18,19
+ 654 1296 654 1296 626 1300 c 128,-1,20
+ 598 1304 598 1304 569 1304 c 0,21,22
+ 524 1304 524 1304 494 1294.5 c 128,-1,23
+ 464 1285 464 1285 446 1260 c 128,-1,24
+ 428 1235 428 1235 420 1190 c 128,-1,25
+ 412 1145 412 1145 412 1075 c 2,26,-1
  412 1031 l 1,27,-1
  685 1031 l 1,28,-1
  685 927 l 1,29,-1
@@ -6982,11 +6982,11 @@ EndTTInstrs
 LayerCount: 2
 Fore
 SplineSet
-158 1464 m 1,0,-1
- 342 1482 l 1,1,-1
+158 1419 m 1,0,-1
+ 342 1437 l 1,1,-1
  342 0 l 1,2,-1
  158 0 l 1,3,-1
- 158 1464 l 1,0,-1
+ 158 1419 l 1,0,-1
 EndSplineSet
 Kerns2: 175 -113 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0"  53 -10 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0"  37 -10 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 
 EndChar
@@ -7662,8 +7662,8 @@ EndTTInstrs
 LayerCount: 2
 Fore
 SplineSet
-158 1464 m 1,0,-1
- 343 1482 l 1,1,-1
+158 1419 m 1,0,-1
+ 343 1437 l 1,1,-1
  343 925 l 1,2,3
  384 957 384 957 424 979.5 c 128,-1,4
  464 1002 464 1002 506 1016 c 128,-1,5
@@ -7686,7 +7686,7 @@ SplineSet
  361 801 361 801 343 795 c 1,25,-1
  343 0 l 1,26,-1
  158 0 l 1,27,-1
- 158 1464 l 1,0,-1
+ 158 1419 l 1,0,-1
 EndSplineSet
 EndChar
 
@@ -8104,8 +8104,8 @@ SplineSet
  343 373 l 1,3,-1
  343 0 l 1,4,-1
  158 0 l 1,5,-1
- 158 1464 l 1,6,-1
- 343 1482 l 1,7,-1
+ 158 1419 l 1,6,-1
+ 343 1437 l 1,7,-1
  343 560 l 1,8,-1
  808 1031 l 1,9,-1
  999 1031 l 1,10,-1
@@ -12553,12 +12553,12 @@ EndChar
 
 StartChar: Yacute
 Encoding: 221 221 226
-Width: 1132
+Width: 1133
 Flags: W
 LayerCount: 2
 Fore
-Refer: 61 89 N 1 0 0 1 0 0 2
-Refer: 21 180 N 1 0 0 1 335 387 2
+Refer: 61 89 N 1 0 0 1 0 0 3
+Refer: 21 180 N 1 0 0 1 335 406 2
 EndChar
 
 StartChar: yacute
