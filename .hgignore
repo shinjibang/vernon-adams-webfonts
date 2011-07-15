@@ -11,3 +11,4 @@ syntax: glob
 *.log
 *.bak
 *specimen_files/*
+*.com.apple.timemachine*
