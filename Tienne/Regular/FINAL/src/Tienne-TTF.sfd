@@ -1,8 +1,8 @@
 SplineFontDB: 3.0
-FontName: Tienne
+FontName: Tienne-Regular
 FullName: Tienne
 FamilyName: Tienne
-Weight: Book
+Weight: Regular
 Copyright: Copyright (c) 2011 by vernon adams. All rights reserved. with\nReserved Font Names "Tienne" and "Tienne Regular". This\nFont Software is licensed under the SIL Open Font License, Version\n1.1. This license is available with a FAQ at:\nhttp://scripts.sil.org/OFL
 Version: 1.000
 ItalicAngle: 0
@@ -14,13 +14,13 @@ sfntRevision: 0x00010000
 LayerCount: 2
 Layer: 0 1 "Back"  1
 Layer: 1 1 "Fore"  0
-XUID: [1021 14 500265001 15948494]
+XUID: [1021 14 500265001 10986547]
 FSType: 0
 OS2Version: 3
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 1
 CreationTime: 1311320069
-ModificationTime: 1311322042
+ModificationTime: 1311361117
 PfmFamily: 17
 TTFWeight: 400
 TTFWidth: 5
@@ -2814,15 +2814,17 @@ ShortTable: maxp 16
   2
   2
 EndShort
-LangName: 1033 "" "" "Regular" "vernonadams: Tienne: 2011" "" "Version 1.000" "" "Tienne is a trademark of vernon adams." "vernon adams" "vernon adams" "Copyright (c) 2011 by vernon adams. All rights reserved." "" "newtypography.co.uk" "" "http://scripts.sil.org/OFL" "" "" "" "Tienne" 
-GaspTable: 1 65535 15
+LangName: 1033 "" "" "Regular" "" "" "Version 1.000" "" "Tienne is a trademark of vernon adams." "vernon adams" "vernon adams" "Copyright (c) 2011 by vernon adams. All rights reserved." "" "newtypography.co.uk" "" "http://scripts.sil.org/OFL" "" "" "" "Tienne" 
+GaspTable: 1 65535 3
 Encoding: UnicodeBmp
 UnicodeInterp: none
 NameList: Adobe Glyph List
 DisplaySize: -48
 AntiAlias: 1
 FitToEm: 1
-WinInfo: 56 28 12
+WinInfo: 50 25 10
+BeginPrivate: 0
+EndPrivate
 BeginChars: 65541 354
 
 StartChar: .notdef
