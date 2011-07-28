@@ -14,13 +14,14 @@ sfntRevision: 0x00010000
 LayerCount: 2
 Layer: 0 1 "Back"  1
 Layer: 1 1 "Fore"  0
-XUID: [1021 14 500265001 3948588]
+NeedsXUIDChange: 1
+XUID: [1021 14 500265001 16205424]
 FSType: 256
 OS2Version: 3
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 1
 CreationTime: 1310985385
-ModificationTime: 1311325968
+ModificationTime: 1311364030
 PfmFamily: 17
 TTFWeight: 400
 TTFWidth: 5
@@ -34,11 +35,11 @@ OS2TypoDOffset: 1
 OS2TypoLinegap: 0
 OS2WinAscent: 117
 OS2WinAOffset: 1
-OS2WinDescent: 62
+OS2WinDescent: 61
 OS2WinDOffset: 1
 HheadAscent: 117
 HheadAOffset: 1
-HheadDescent: -62
+HheadDescent: -61
 HheadDOffset: 1
 OS2SubXSize: 2757
 OS2SubYSize: 2546
@@ -53,32 +54,8 @@ OS2StrikeYPos: 1049
 OS2Vendor: 'newt'
 OS2CodePages: 00000001.00000000
 OS2UnicodeRanges: 800000ef.4000204b.00000000.00000000
-Lookup: 258 0 0 "'kern' Horizontal Kerning lookup 0"  {"'kern' Horizontal Kerning lookup 0-2" [450,0,2] "'kern' Horizontal Kerning lookup 0-1" [450,0,2] } ['kern' ('DFLT' <'dflt' > 'grek' <'dflt' > 'latn' <'dflt' > ) ]
 MarkAttachClasses: 1
 DEI: 91125
-KernClass2: 4 9 "'kern' Horizontal Kerning lookup 0-2" 
- 1 V
- 1 W
- 1 Y
- 13 a d ae oslash
- 21 c e g o q ccedilla oe
- 41 agrave aacute egrave eacute ograve oacute
- 77 acircumflex aring edieresis odieresis uni0203 uni0205 uni0207 uni020D uni020F
- 6 atilde
- 17 adieresis uni0201
- 23 ecircumflex ocircumflex
- 6 otilde
- 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -35 {} -9 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -75 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -105 {} -100 {} -50 {} 0 {} 0 {} 0 {} -8 {} 0 {}
-KernClass2: 2 8 "'kern' Horizontal Kerning lookup 0-1" 
- 1 F
- 4 a ae
- 59 c e o q ccedilla egrave eacute ograve oacute oslash uni0201
- 14 d aacute aring
- 6 agrave
- 105 acircumflex adieresis ecircumflex edieresis ocircumflex odieresis uni0203 uni0205 uni0207 uni020D uni020F
- 6 atilde
- 6 otilde
- 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -26 {} 0 {} 0 {} -5 {} 0 {} 0 {} 0 {}
 TtTable: prep
 PUSHW_2
  2048
@@ -2833,14 +2810,17 @@ EndShort
 LangName: 1033 "" "" "Regular" "vernonadams: Rokkitt: 2011" "" "Version 1.000" "" "Rokkitt is a trademark of vernon adams." "vernon adams" "vernon adams" "Copyright (c) 2011 by vernon adams. All rights reserved. with+AA0A-Reserved Font Names +ACIA-Tienne+ACIA and +ACIA-Tienne Regular+ACIA. This+AA0A-Font Software is licensed under the SIL Open Font License, Version+AA0A-1.1. This license is available with a FAQ at:+AA0A-http://scripts.sil.org/OFL" "" "" "" "http://scripts.sil.org/OFL" "" "" "" "Rokkitt" 
 GaspTable: 1 65535 15
 Encoding: UnicodeBmp
+Compacted: 1
 UnicodeInterp: none
 NameList: Adobe Glyph List
 DisplaySize: -48
 AntiAlias: 1
 FitToEm: 1
-WinInfo: 56 28 12
-BeginPrivate: 0
-EndPrivate
+WinInfo: 0 28 12
+Grid
+-2048 484.600006104 m 0
+ 4096 484.600006104 l 0
+EndSplineSet
 BeginChars: 65551 328
 
 StartChar: .notdef
@@ -16515,7 +16495,7 @@ NPUSHB
  27
  25
  20
- 19
+ 18
  17
  16
  15
@@ -16760,13 +16740,13 @@ SplineSet
  56 234 56 234 56 408 c 128,-1,6
  56 582 56 582 172 701 c 0,7,8
  287 820 287 820 463 820 c 0,9,10
- 590 820 590 820 665 746 c 0,11,12
+ 587 820 587 820 665 746 c 0,11,12
  684 728 684 728 691 713 c 1,13,-1
  687 805 l 1,14,-1
  820 805 l 1,15,-1
  820 517 l 1,16,-1
  691 517 l 1,17,18
- 605 659 605 659 471 694 c 1,19,20
+ 644 683 644 683 471 694 c 1,19,20
  347 694 347 694 281.5 616 c 128,-1,21
  216 538 216 538 216 400 c 0,22,23
  216 192 216 192 359 128 c 0,24,25
@@ -21945,15 +21925,13 @@ GlyphClass: 2
 Flags: W
 TtInstrs:
 NPUSHB
- 24
+ 22
  1
  0
- 21
- 20
  19
  18
+ 17
  16
- 15
  14
  12
  10
@@ -21965,19 +21943,19 @@ NPUSHB
  4
  3
  0
- 24
+ 21
  1
- 24
- 10
+ 21
+ 9
  7
 CALL
 MPPEM
 PUSHB_1
- 26
+ 29
 LT
 IF
 NPUSHB
- 42
+ 41
  2
  1
  0
@@ -21988,7 +21966,7 @@ NPUSHB
  0
  2
  21
- 7
+ 6
  1
  1
  1
@@ -21996,14 +21974,14 @@ NPUSHB
  0
  0
  27
- 8
+ 7
  1
  2
  2
  10
  22
  3
- 9
+ 8
  2
  0
  0
@@ -22011,9 +21989,8 @@ NPUSHB
  1
  0
  27
- 6
  5
- 2
+ 1
  4
  4
  8
@@ -22027,7 +22004,7 @@ PUSHB_1
 LT
 IF
 NPUSHB
- 55
+ 54
  2
  1
  0
@@ -22038,7 +22015,7 @@ NPUSHB
  0
  2
  21
- 7
+ 6
  1
  1
  1
@@ -22046,14 +22023,14 @@ NPUSHB
  0
  0
  27
- 8
+ 7
  1
  2
  2
  10
  22
  3
- 9
+ 8
  2
  0
  0
@@ -22067,7 +22044,7 @@ NPUSHB
  8
  22
  3
- 9
+ 8
  2
  0
  0
@@ -22075,8 +22052,7 @@ NPUSHB
  1
  0
  27
- 6
- 1
+ 0
  5
  5
  14
@@ -22090,7 +22066,7 @@ PUSHB_1
 LT
 IF
 NPUSHB
- 52
+ 51
  2
  1
  3
@@ -22101,7 +22077,7 @@ NPUSHB
  0
  2
  21
- 7
+ 6
  1
  1
  1
@@ -22109,7 +22085,7 @@ NPUSHB
  0
  0
  27
- 8
+ 7
  1
  2
  2
@@ -22127,7 +22103,7 @@ NPUSHB
  4
  8
  22
- 9
+ 8
  1
  0
  0
@@ -22135,8 +22111,7 @@ NPUSHB
  1
  0
  27
- 6
- 1
+ 0
  5
  5
  14
@@ -22150,7 +22125,7 @@ PUSHB_1
 LT
 IF
 NPUSHB
- 50
+ 49
  2
  1
  3
@@ -22161,10 +22136,10 @@ NPUSHB
  0
  2
  21
- 8
+ 7
  1
  2
- 7
+ 6
  1
  1
  3
@@ -22185,7 +22160,7 @@ NPUSHB
  4
  8
  22
- 9
+ 8
  1
  0
  0
@@ -22193,8 +22168,7 @@ NPUSHB
  1
  0
  27
- 6
- 1
+ 0
  5
  5
  14
@@ -22203,7 +22177,7 @@ NPUSHB
  6
 ELSE
 NPUSHB
- 58
+ 57
  2
  1
  3
@@ -22214,10 +22188,10 @@ NPUSHB
  0
  2
  21
- 8
+ 7
  1
  2
- 7
+ 6
  1
  1
  3
@@ -22226,7 +22200,7 @@ NPUSHB
  0
  0
  29
- 9
+ 8
  1
  0
  4
@@ -22245,7 +22219,7 @@ NPUSHB
  0
  0
  29
- 9
+ 8
  1
  0
  0
@@ -22253,8 +22227,7 @@ NPUSHB
  1
  0
  27
- 6
- 1
+ 0
  5
  0
  5
@@ -22284,16 +22257,14 @@ SplineSet
  970 0 l 1,9,-1
  678 0 l 1,10,-1
  673 100 l 1,11,12
- 464 -19 464 -19 409 -19 c 0,13,14
- 404 -19 404 -19 401 -18 c 1,15,16
- 152 -18 152 -18 152 261 c 2,17,-1
- 152 689 l 1,18,-1
- 32 689 l 1,19,-1
- 32 805 l 1,20,-1
- 304 805 l 1,21,-1
- 304 268 l 2,22,23
- 304 190 304 190 332 148.5 c 128,-1,24
- 360 107 360 107 429 107 c 0,0,1
+ 549 -18 549 -18 401 -18 c 0,13,14
+ 152 -18 152 -18 152 261 c 2,15,-1
+ 152 689 l 1,16,-1
+ 32 689 l 1,17,-1
+ 32 805 l 1,18,-1
+ 304 805 l 1,19,-1
+ 304 268 l 2,20,21
+ 304 107 304 107 429 107 c 0,0,1
 EndSplineSet
 EndChar
 
@@ -23976,7 +23947,7 @@ CALL
 EndTTInstrs
 LayerCount: 2
 Fore
-Refer: 23 33 N 1 0 0 -0.999939 0 1171 2
+Refer: 23 33 N 1 0 0 -1 0 1171 2
 EndChar
 
 StartChar: cent
@@ -31293,7 +31264,7 @@ CALL
 EndTTInstrs
 LayerCount: 2
 Fore
-Refer: 53 63 N -0.999878 0 0 -0.999878 796 1196 2
+Refer: 53 63 N -0.999939 0 0 -0.999939 796 1196 2
 EndChar
 
 StartChar: Agrave
@@ -40113,11 +40084,11 @@ EndTTInstrs
 LayerCount: 2
 Fore
 SplineSet
-874 117 m 1,0,-1
- 874 0 l 1,1,-1
- 0 0 l 1,2,-1
- 0 117 l 1,3,-1
- 874 117 l 1,0,-1
+874 484.599609375 m 5,0,-1
+ 874 367.599609375 l 5,1,-1
+ 0 367.599609375 l 5,2,-1
+ 0 484.599609375 l 5,3,-1
+ 874 484.599609375 l 5,0,-1
 EndSplineSet
 EndChar
 
@@ -40198,11 +40169,11 @@ EndTTInstrs
 LayerCount: 2
 Fore
 SplineSet
-1648 117 m 1,0,-1
- 1648 0 l 1,1,-1
- 0 0 l 1,2,-1
- 0 117 l 1,3,-1
- 1648 117 l 1,0,-1
+1648 484.599609375 m 5,0,-1
+ 1648 367.599609375 l 5,1,-1
+ 0 367.599609375 l 5,2,-1
+ 0 484.599609375 l 5,3,-1
+ 1648 484.599609375 l 5,0,-1
 EndSplineSet
 EndChar
 
