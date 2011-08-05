@@ -1,0 +1,253 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>ttfautohint waterfall tests</title>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+    <style type="text/css">@font-face {
+  font-family: "Heavy";
+  src: url("Heavy/Coustard.ttf");
+}
+@font-face {
+  font-family: "Heavy";
+  src: url("Heavy/Coustard.ttf");
+}
+.fontcard {
+  margin-top: 1em;
+  margin-right: 1em;
+  margin-bottom: 1em;
+  margin-left: 1em;
+  background-color: rgb(255, 255, 255);
+}
+.fontlist .fontcard:hover, .paragraphview .fontcard:hover, .glyphview .fontcard:hover {
+}
+.superspecimen {
+  max-width: 60%;
+}
+.superspecimen h1, .superspecimen h2, .superspecimen h3 {
+ font-size: 16px;
+ font-weight: bold;
+ font-family: arial;
+ margin-bottom: 3px;
+}
+.superspecimen h2, .superspecimen h3 {
+ font-size: 13px;
+}
+.superspecimen h3 {
+ margin-bottom: 20px;
+}
+.superspecimen .fontcard {
+  padding-top: 1em;
+  padding-right: 1em;
+  padding-bottom: 1em;
+  padding-left: 1em;
+  overflow: hidden;
+}
+.superspecimen .supersample {
+  font-size: 64px;
+  line-height: 1.1em;
+  margin-bottom: 20px;
+}
+.superspecimen .styles {
+  margin-bottom: 20px;
+  font-size: 32px;
+  white-space: nowrap;
+}
+.superspecimen .styles p {
+ margin-bottom: 10px;
+}
+.superspecimen .identifier {
+  font-size: 11px;
+  color: rgb(119, 119, 119);
+  font-family: arial;
+  display: block;
+}
+.sample {
+  padding-bottom: 2em;
+  overflow: hidden;
+}
+.sample div {
+ border: 1px solid rgb(204, 204, 204);
+ text-align: center;
+ height: 2em;
+ margin-right: -1px;
+ margin-bottom: -1px;
+ font-size: 3.4em;
+}
+.sample div span {
+ color: rgb(204, 204, 204);
+ font-family: arial,sans-serif;
+ font-size: 0.4em;
+ display: block;
+}
+#leftCol {
+  position: absolute;
+  width: 100%;
+  overflow: hidden;
+  white-space: nowrap;
+  line-height: 0;
+  vertical-align: 0%;
+  min-width: 410px;
+}
+body {
+  font-size: 21px;
+  font-family: Regular;
+  margin-top: 50px;
+  margin-right: 50px;
+  margin-bottom: 50px;
+  margin-left: 50px;
+  color: rgb(68, 68, 68);
+}
+table.example {
+  font-size: 60pt;
+  margin-left: 0.5em;
+  border-collapse: collapse;
+}
+tr, td {
+  margin-top: 0pt;
+  margin-right: 0pt;
+  margin-bottom: 0pt;
+  margin-left: 0pt;
+  padding-top: 13px;
+  padding-right: 13px;
+  padding-bottom: 13px;
+  padding-left: 13px;
+}
+table.example tr:nth-child(2n) {
+ color: rgb(102, 0, 0);
+}
+table.waterfall {
+  width: 400px;
+  overflow: hidden;
+}
+.waterfall tr {
+ line-height: 2em;
+}
+.Regular {
+  font-family: Regular;
+}
+.Heavy {
+  font-family: Heavy;
+}
+</style> <script type="text/javascript">
+
+</script> </head>
+  <body>
+    <div> <br>
+      <table style="left: 0px; width: 500px;" id="ex1" class="waterfall">
+        <tbody>
+          <tr>
+            <td class="Heavy" style="font-size: 34px;">Waterfall
+              Adhesional<br>
+              Textuality American Bandstand<br>
+              Chinese Dogray Epic Fanfares Geronimo X-Ray Spex Number 6
+              You're Equal &amp; Different It's Obvious What I Hate To
+              Ask To Be Certain Can You Repeat That? Never Heard It Put
+              That Way (Before) 50% Security Bøker Våvatn [Property]<br>
+            </td>
+          </tr>
+          <tr>
+            <td checked="true" class="Heavy">A Razor Sharp Knife was
+              used to Trim the Edges! B&amp;H C&amp;A Dik&amp;Dom $30*
+              --hinting-range-max= <br>
+              <tablestyle="left: 0px;="" width:="" 500px;="" id="ex1" class="waterfall">
+              </tablestyle="left:></td>
+          </tr>
+        </tbody>
+        <tbody>
+          <tr>
+          </tr>
+          <tr>
+            <td checked="true" class="Heavy">A Razor Sharp Knife was
+              used to Trim the Edges Yankee Wonderland Xerox Waterfall
+              Yoga Yoghurt Tomorrow Tandem Aardvark Anarchy Ableton
+              Banshee Bickford Cheltenham Conrad Citadel Daycare
+              Diagonal Dharma Dvorak Avocet Echo Einhardt Edington
+              Firehouse Focus FSA Flambards Ghoulish Geronimo Giant
+              GIANT GHIA Gwent Huddersfield Håkkon Hope Hexagonal
+              Ipswich ICEBERG® Iroquios Japanese Jensen Jhassé Koala
+              Knock Khôl KLA Lollard Ljunberg Manchester Migraine
+              Norwich Nihilism Opulent Occultism Ontario Parliament
+              Phelps P.D.A. Pokémon Queensbury I.Q. Racecourse Rhineland
+              Regal Shandy Sylable Socrates Sausage Station Tomahawk
+              Thomas Tiagra Tyndal Twyman Tchosta Umbrella Ullerpool Uve
+              Uxbridge Vantage Vegetable Village Vladimir Vocalize
+              Wrexham Wort Wallaby Whale Wyvern Xenophobia Xerox Xanadu
+              Zebra Zorro<br>
+              FIREHOUSE BREAKDANCING<br>
+            </td>
+          </tr>
+        </tbody>
+        <tbody>
+          <tr>
+            <td class="Heavy" style="font-size: 55px;">Epic Fanfare!</td>
+          </tr>
+          <tr>
+            <td class="Heavy" style="font-size: 21px;">Santiago Bermuda
+              Triangle Connecticut Trinidad and Tobago<br>
+              <p class="Heavy" style="font-size: 21px;">When jobs have
+                type sizes fixed quickly margins of error will widen
+                unless<br>
+              </p>
+            </td>
+          </tr>
+          <tr>
+            <td class="Heavy">Chinese Dogray Epic Fanfares Geronimo
+              Princetown, New Jersey.<br>
+            </td>
+          </tr>
+          <tr>
+            <td class="Heavy">The Farmland spread before us, and resting
+              against the trees was a shadow long unto the evening.<br>
+            </td>
+          </tr>
+          <tr>
+            <td class="Heavy">Then the quick brown fox jumped over the
+              lazy dog, sidestepped the farmer, and went for the throat
+              of Lord Wimpy, ripping flesh from bone. The huntsmen
+              recoiled in horror as more foxes circled the group.<br>
+            </td>
+          </tr>
+          <tr>
+            <td class="Heavy">Alice in Wonderland 1916 The Most Peculiar
+              Tales<br>
+              Coustard Vocational Training for Improvements and<br>
+              Grand Rapids Bullet Canada Deformation Emblematic<br>
+              12059# LAKE TAHOE DRIVE*<br>
+            </td>
+          </tr>
+          <tr>
+            <td class="Heavy" style="font-size:14px">The quick brown fox jumps over the
+              lazy dog, sidesteps the farmer, and goes for the throat of
+              Lord Wimpy.Growing fears that Italy, the eurozone's third-largest economy, could become embroiled in the debt crisis (so far Greece has been at the heart of the crisis, along with Ireland and Portugal) have pushed up the yield on the 10-year Italian government bond past its Spanish equivalent for the first time since May 2010. The Italian bond yielded 6.27% while Spanish yields were at 6.23%.</td>
+          </tr>
+          <tr>
+            <td class="Heavy" style="font-size:12px">The quick brown fox jumps over the
+              lazy dog, sidesteps the farmer, and goes for the throat of
+              Lord Wimpy.Growing fears that Italy, the eurozone's third-largest economy, could become embroiled in the debt crisis (so far Greece has been at the heart of the crisis, along with Ireland and Portugal) have pushed up the yield on the 10-year Italian government bond past its Spanish equivalent for the first time since May 2010. The Italian bond yielded 6.27% while Spanish yields were at 6.23%. European Union monetary affairs commissioner Olli Rehn refuses to be drawn on whether Europe's EFSF rescue fund needs to be bigger. At the moment, €440bn is envisaged but economists have said it needs to be much, much bigger to be credible - in case Italy and Spain need to be rescued. Willem Buiter, chief economist at Citi and a former Bank of England policymaker, has called for the fund to be expanded to €2.5 trillion.</td>
+          </tr>
+          <tr>
+            <td>The quick brown fox jumps over the lazy dog, sidesteps
+              the farmer, and goes for the throat of Lord Wimpy.</td>
+          </tr>
+          <tr>
+            <td>The quick brown fox jumps over the lazy dog, sidesteps
+              the farmer, and goes for the throat of Lord Wimpy.</td>
+          </tr>
+          <tr>
+            <td>The quick brown fox jumps over the lazy dog, sidesteps
+              the farmer, and goes for the throat of Lord Wimpy.</td>
+          </tr>
+          <tr>
+            <td>The quick brown fox jumps over the lazy dog, sidesteps
+              the farmer, and goes for the throat of Lord Wimpy.</td>
+          </tr>
+          <tr>
+            <td>The quick brown fox jumps over the lazy dog, sidesteps
+              the farmer, and goes for the throat of Lord Wimpy.</td>
+          </tr>
+        </tbody>
+      </table>
+    </div>
+    <div> </div>
+  </body>
+</html>
