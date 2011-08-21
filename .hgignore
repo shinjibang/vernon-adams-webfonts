@@ -1,0 +1,14 @@
+syntax: glob
+*:2e*
+*:2ehg*
+*.css
+*.html
+*.AppleDouble
+*.DS_Store
+*~
+*.swp
+*.nam
+*.log
+*.bak
+*specimen_files/*
+*.com.apple.timemachine*
