@@ -1,0 +1,50 @@
+#!/usr/local/bin/fontforge
+# values.pe
+# Author: Brian Zick <www.21326.info>
+# Version: 0.1
+# Date: 4 September 2011
+#
+# Sets some of the PSNames and OS/2 values for all open fonts. 
+# Change values according to project.
+# Uses SIL OFL 1.1 license for fonts.
+
+ascent = 2106
+descent = 485
+copyright = "Copyright (c) 2010, 2011 Brian M Zick (http://21326.info/)"
+fontname = $familyname
+
+font = $firstfont
+while (font != "")
+	Open(font)
+
+	# Set OS/2 version to 1
+	# note: check it manually, can't find way to make it work
+	
+	# Set FSType to installable
+	SetOS2Value("FSType", 1)
+	
+	# Set PSNames Copyright
+	SetFontNames("", "", "", "", copyright + ", \nwith Reserved Font Name '" + fontname + "'.\n\nThis Font Software is licensed under the SIL Open Font License, Version 1.1." + "\nThis license is available with a FAQ at: http://scripts.sil.org/OFL\n   WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.\n   See the License for the specific language governing permissions and\n   limitations under the License.")
+	
+	# Vertical metrics 
+	# Set "is offset" to off
+	SetOS2Value("WinAscentIsOffset", 0) 
+	SetOS2Value("WinDescentIsOffset", 0)
+	SetOS2Value("TypoAscentIsOffset", 0) 
+	SetOS2Value("TypoDescentIsOffset", 0)
+	SetOS2Value("HHeadAscentIsOffset", 0)
+	SetOS2Value("HHeadDescentIsOffset", 0)
+	# Metrics
+	ndescent = 0 - descent
+	SetOS2Value("WinAscent", ascent)
+	SetOS2Value("WinDescent", descent)
+					# Where's 'really use typo metrics'??
+	SetOS2Value("TypoAscent", ascent)
+	SetOS2Value("TypoDescent", ndescent)
+	SetOS2Value("TypoLineGap", 0)
+	SetOS2Value("HHeadAscent", ascent)
+	SetOS2Value("HHeadDescent", ndescent)
+	SetOS2Value("HHeadLineGap", 0)
+	
+	font = $nextfont
+endloop
