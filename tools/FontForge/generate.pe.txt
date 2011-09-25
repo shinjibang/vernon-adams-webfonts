@@ -1,0 +1,90 @@
+#!/usr/local/bin/fontforge
+# generate.pe
+# Author: Brian Zick <www.21326.info>
+# Version: 0.1.2.1
+# Date: 5 September 2011
+
+# This script: saves a source file, cleans glyph outlines, coverts to tt outlines,
+# and hints fonts before saving hinted and unhinted variants in both .sfd and .ttf 
+# for all open fonts in folder specified in the script. You will be prompted for 
+# a version on each font, it will autofill with the fonts' version or the previous entry.
+
+# NOTES:
+# 1. This assumes all fonts will be saved to one folder. You will have to change
+#    the path variables in this script to accomodate your local system.
+# 2. Some functions are used twice in a row. This is because they (for some reason)
+#    did not work or produce desirable results when used once.
+# 3. It would be nice if fontforge could create a sub-folder for each version.
+# 4. On my computer, the generated *-TTF-hints.ttf has no hints? I don't know why.
+
+# TODO:
+# Make path relative
+
+_path = "/Users/brian/Documents/Projects/Fonts/"
+font = $firstfont
+version = $fontversion
+setversion = ""
+
+while (font != "")
+   Open(font)
+	path = _path + $familyname + "/Release/"
+	
+	versionprompt = "Current version is " + $fontversion + ". New version?"
+	if (setversion == "")
+		setversion = AskUser("Set the version for each font separately? (y/n)","n");
+	endif
+	if (setversion == "y")
+		version = AskUser(versionprompt, version);
+	elseif (font == $firstfont)
+			version = AskUser(versionprompt, version);
+	endif
+	
+	filename = path + $fontname + "-" + version
+	
+	if (FileAccess(path) != 0)
+		Error(path + " does not exist. Please create this directory.")
+	else
+		# Source
+		Save(filename + "-source.sfd");
+		# General
+		SelectAll();
+		UnlinkReference();
+		RemoveOverlap();
+		CorrectDirection();
+		ScaleToEm(2048);	
+		#	Convert splines to quadratic
+		SetFontOrder(2);
+		Simplify(128,2.05);
+		Simplify(128,2.05);
+		RoundToInt();
+		RoundToInt();
+		#	Set version
+		SetFontNames("","","","","",version)
+		#	Hinting
+		AutoHint();
+		PrivateGuess("BlueScale");
+		PrivateGuess("BlueValues");
+		PrivateGuess("OtherBlues");
+		PrivateGuess("StdHW");
+		PrivateGuess("StdVW");
+		PrivateGuess("StemSnapH");
+		PrivateGuess("StemSnapV");
+		AutoHint();
+		AutoInstr();
+		#	Save hinted variant
+		Save(filename + "-TTF-hints.sfd");
+		Generate(filename + "-TTF-hints.ttf");
+		#	Save unhinted variant
+		ClearHints();
+		ClearHints();
+		ClearInstrs();
+		ClearInstrs();
+		AddInstrs("prep", 1, "PUSHW_1 511 SCANCTRL PUSHB_1 4 SCANTYPE");
+		Save(filename + "-TTF-no_hints.sfd");
+		Generate(filename + "-TTF-no_hints.ttf");
+	endif
+	font = $nextfont
+endloop
+
+Quit(0)
+# PostNotice("Done! Don't save these unless you want to overwrite your precious font files!")

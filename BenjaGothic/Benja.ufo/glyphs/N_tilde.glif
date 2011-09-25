@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Ntilde" format="1">
+  <advance width="1041"/>
+  <unicode hex="00D1"/>
+  <outline>
+    <contour>
+      <point x="97" y="0" type="line"/>
+      <point x="368" y="0" type="line"/>
+      <point x="368" y="860" type="line"/>
+      <point x="406" y="860" type="line"/>
+      <point x="695" y="0" type="line"/>
+      <point x="977" y="0" type="line"/>
+      <point x="977" y="1522" type="line"/>
+      <point x="707" y="1522" type="line"/>
+      <point x="707" y="720" type="line"/>
+      <point x="669" y="720" type="line"/>
+      <point x="381" y="1522" type="line"/>
+      <point x="97" y="1522" type="line"/>
+    </contour>
+    <contour>
+      <point x="795" y="1911" type="line"/>
+      <point x="784" y="1870"/>
+      <point x="755" y="1820"/>
+      <point x="706" y="1820" type="curve" smooth="yes"/>
+      <point x="659" y="1820"/>
+      <point x="618" y="1840"/>
+      <point x="573" y="1862" type="curve" smooth="yes"/>
+      <point x="527" y="1885"/>
+      <point x="478" y="1907"/>
+      <point x="412" y="1907" type="curve" smooth="yes"/>
+      <point x="295" y="1907"/>
+      <point x="224" y="1793"/>
+      <point x="203" y="1690" type="curve"/>
+      <point x="307" y="1690" type="line"/>
+      <point x="317" y="1744"/>
+      <point x="353" y="1782"/>
+      <point x="408" y="1782" type="curve" smooth="yes"/>
+      <point x="452" y="1782"/>
+      <point x="495" y="1763"/>
+      <point x="537" y="1745" type="curve" smooth="yes"/>
+      <point x="580" y="1727"/>
+      <point x="626" y="1705"/>
+      <point x="688" y="1705" type="curve" smooth="yes"/>
+      <point x="814" y="1705"/>
+      <point x="883" y="1802"/>
+      <point x="900" y="1911" type="curve"/>
+    </contour>
+  </outline>
+</glyph>
