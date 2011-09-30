@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="franc" format="1">
+  <advance width="2560"/>
+  <unicode hex="20A3"/>
+  <outline>
+    <component base="r" xOffset="1305"/>
+    <component base="F"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>org.robofab.postScriptHintData</key>
+      <dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

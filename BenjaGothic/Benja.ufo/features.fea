@@ -1,0 +1,165 @@
+feature aalt{
+  feature frac;
+  feature ordn;
+  feature sups;
+} aalt;
+feature kern { # Kerning
+ # Latin
+lookup kern0 {
+    pos quoteright quoteright 18;
+    pos T acircumflex -28;
+    pos T adieresis -14;
+    pos T agrave -28;
+    pos T aring -28;
+    pos T atilde -28;
+    pos T ecircumflex -41;
+    pos T edieresis -28;
+    pos T egrave -41;
+    pos T iacute -28;
+    pos T icircumflex 11;
+    pos T igrave 28;
+    pos T odieresis -28;
+    pos T ograve -28;
+    pos T scaron -14;
+    pos T udieresis -28;
+    pos V acircumflex -19;
+    pos V adieresis -19;
+    pos V agrave -19;
+    pos V aring -19;
+    pos V atilde -19;
+    pos V ecircumflex -19;
+    pos V edieresis -19;
+    pos V egrave -19;
+    pos V icircumflex 4;
+    pos V ocircumflex -28;
+    pos V odieresis -19;
+    pos W adieresis -14;
+    pos W ecircumflex -14;
+    pos W odieresis -14;
+    pos Y odieresis -41;
+    pos Y udieresis -28;
+    pos quoteleft quoteleft 18;
+    pos [quoteright] [t] -74;
+    pos [F] [comma] -111;
+    pos [F] [period] -111;
+    pos [P] [comma] -111;
+    pos [P] [period] -111;
+    pos [R] [T] -18;
+    pos [T] [comma] -74;
+    pos [T] [hyphen] -55;
+    pos [T] [period] -74;
+    pos [T] [colon] -55;
+    pos [T] [semicolon] -55;
+    pos [T] [r] -55;
+    pos [T] [w] -55;
+    pos [V] [comma] -74;
+    pos [V] [hyphen] -37;
+    pos [V] [period] -74;
+    pos [V] [colon] -37;
+    pos [V] [semicolon] -37;
+    pos [V] [r] -18;
+    pos [W] [comma] -37;
+    pos [W] [hyphen] -18;
+    pos [W] [period] -37;
+    pos [W] [colon] -18;
+    pos [W] [semicolon] -18;
+    pos [r] [comma] -55;
+    pos [r] [hyphen] -37;
+    pos [r] [period] -55;
+    pos [v] [comma] -37;
+    pos [v] [period] -37;
+    pos [w] [comma] -37;
+    pos [w] [period] -37;
+    pos [quoteright] @_s -111;
+    pos @_A [quoteright] -55;
+    pos @_A [T] -37;
+    pos @_A [V] -37;
+    pos @_A [W] -37;
+    pos @_A @_Y -55;
+    pos @_A [v] -18;
+    pos @_A [w] -18;
+    pos @_A @_y -18;
+    pos [F] @_A1 -37;
+    pos @_L [quoteright] -74;
+    pos @_L [T] -55;
+    pos @_L [V] -55;
+    pos @_L [W] -37;
+    pos @_L @_Y -74;
+    pos @_L @_y -37;
+    pos [P] @_A1 -37;
+    pos [T] @_A1 -37;
+    pos [T] @_a -55;
+    pos [T] [c ccedilla] -55;
+    pos [T] @_e -55;
+    pos [T] @_i -55;
+    pos [T] @_o -55;
+    pos [T] @_s -55;
+    pos [T] @_u -55;
+    pos [T] @_y -55;
+    pos [V] @_A1 -37;
+    pos [V] @_a -37;
+    pos [V] @_e -37;
+    pos [V] @_i -18;
+    pos [V] @_o -37;
+    pos [V] @_u -18;
+    pos [W] @_A1 -37;
+    pos [W] @_a -18;
+    pos [W] @_e -18;
+    pos [W] @_o -18;
+    pos @_Y [comma] -74;
+    pos @_Y [hyphen] -55;
+    pos @_Y [period] -74;
+    pos @_Y [colon] -55;
+    pos @_Y [semicolon] -55;
+    pos @_Y @_A1 -55;
+    pos @_Y @_a -55;
+    pos @_Y @_e -55;
+    pos @_Y @_i -18;
+    pos @_Y @_o -55;
+    pos @_Y [p] -37;
+    pos @_Y [q] -55;
+    pos @_Y @_u -37;
+    pos @_Y [v] -18;
+    pos @_y [comma] -37;
+    pos @_y [period] -37;
+} kern0;
+} kern;
+feature frac { # Fractions
+ # Latin
+    sub zero' [slash fraction]' zero' zero' by perthousand;
+    sub zero' [slash fraction]' zero' by percent;
+    sub one' [slash fraction]' four' by onequarter;
+    sub one' [slash fraction]' two' by onehalf;
+    sub three' [slash fraction]' four' by threequarters;
+} frac;
+feature liga { # Standard Ligatures
+ # Latin
+lookup liga4 {
+    sub f i by fi;
+} liga4;
+lookup liga5 {
+    sub f l by fl;
+} liga5;
+ language TUR  exclude_dflt; # INVALID TAG FOR Turkish - use 'TRK' instead
+lookup liga5;
+} liga;
+feature ordn { # Ordinals
+ # Latin
+    ignore sub one one a';
+    sub @ordn1 a' by ordfeminine;
+    sub @ordn1 o' by ordmasculine;
+    sub @ordn1 period a' by ordfeminine;
+    sub @ordn1 period o' by ordmasculine;
+} ordn;
+feature sups { # Superscript
+ # Latin
+    sub [one two three A] by [onesuperior twosuperior threesuperior ordfeminine];
+    sub [O a o] by [ordmasculine ordfeminine ordmasculine];
+} sups;
+
+
+
+
+
+
+
