@@ -14,13 +14,14 @@ sfntRevision: 0x00010000
 LayerCount: 2
 Layer: 0 1 "Back"  1
 Layer: 1 1 "Fore"  0
+NeedsXUIDChange: 1
 XUID: [1021 14 500265001 2435846]
 FSType: 0
 OS2Version: 3
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 1
 CreationTime: 1319269805
-ModificationTime: 1319271867
+ModificationTime: 1319695769
 PfmFamily: 17
 TTFWeight: 400
 TTFWidth: 5
@@ -59,7 +60,7 @@ DEI: 91125
 MacFeat: 0 0 0
 MacName: 0 0 24 "All Typographic Features"
 MacName: 0 1 24 "Fonctions typographiques"
-MacName: 0 2 33 "Alle typografischen M\232glichkeiten"
+MacName: 0 2 32 "Alle typografischen Mglichkeiten"
 MacName: 0 3 21 "Funzioni Tipografiche"
 MacName: 0 4 28 "Alle typografische kenmerken"
 MacSetting: 0
@@ -78,7 +79,7 @@ MacSetting: 2
 MacName: 0 0 16 "Common Ligatures"
 MacName: 0 1 18 "Ligatures Usuelles"
 MacName: 0 2 17 "Normale Ligaturen"
-MacName: 0 3 19 "Legature pi\235 Comuni"
+MacName: 0 3 18 "Legature pi Comuni"
 MacName: 0 4 28 "Gemeenschappelijke Ligaturen"
 EndMacFeatures
 TtTable: prep
@@ -114,12 +115,13 @@ EndShort
 LangName: 1033 "" "" "Regular" "1.000;typm;Butchermann-Caps" "" "1.000" "" "Butchermann-Caps is a trademark of Typomondo." "Typomondo" "Typomondo" "Copyright (c) 2011 by Typomondo. All rights reserved." "" "" "" "http://scripts.sil.org/OFL" "" "Butchermann-Caps" 
 GaspTable: 1 65535 15
 Encoding: UnicodeBmp
+Compacted: 1
 UnicodeInterp: none
 NameList: Adobe Glyph List
 DisplaySize: -96
 AntiAlias: 1
 FitToEm: 1
-WinInfo: 64 8 2
+WinInfo: 0 9 8
 BeginChars: 65541 335
 
 StartChar: .notdef
@@ -13255,7 +13257,7 @@ GlyphClass: 2
 Flags: W
 LayerCount: 2
 Fore
-Refer: 309 730 N 1 0 0 1 82 901 2
+Refer: 309 730 S 1 0 0 1 130 901 2
 Refer: 38 65 N 1 0 0 1 0 0 3
 EndChar
 
@@ -13445,7 +13447,7 @@ GlyphClass: 2
 Flags: W
 LayerCount: 2
 Fore
-Refer: 116 184 N 1 0 0 1 481 -223 2
+Refer: 116 184 N 1 0 0 1 250 -223 2
 Refer: 40 67 N 1 0 0 1 0 0 3
 EndChar
 
@@ -14346,7 +14348,7 @@ GlyphClass: 2
 Flags: W
 LayerCount: 2
 Fore
-Refer: 309 730 N 1 0 0 1 97 1044 2
+Refer: 309 730 S 1 0 0 1 121 1044 2
 Refer: 70 97 N 1 0 0 1 0 0 3
 EndChar
 
@@ -15867,10 +15869,10 @@ SplineSet
  1115 324 l 1,156,157
  1115 258 1115 258 1094.5 129 c 128,-1,158
  1074 0 1074 0 1074 -68 c 1,0,-1
-1011 950.5 m 130,-1,160
+1011 950.5 m 2,159,160
  1011 951 1011 951 1011 952 c 1,161,162
- 1011 951 1011 951 1011 950 c 2,163,159
- 1011 950.5 l 130,-1,160
+ 1011 951 1011 951 1011 950 c 2,163,-1
+ 1011 950.5 l 2,159,160
 1011 951 m 2,164,165
  1011 951 1011 951 1011 952 c 2,166,-1
  1011 950 l 2,167,168
@@ -16031,10 +16033,10 @@ SplineSet
  1115 324 l 1,156,157
  1115 258 1115 258 1094.5 129 c 128,-1,158
  1074 0 1074 0 1074 -68 c 1,0,-1
-1011 950.5 m 130,-1,160
+1011 950.5 m 2,159,160
  1011 951 1011 951 1011 952 c 1,161,162
- 1011 951 1011 951 1011 950 c 2,163,159
- 1011 950.5 l 130,-1,160
+ 1011 951 1011 951 1011 950 c 2,163,-1
+ 1011 950.5 l 2,159,160
 1011 951 m 2,164,165
  1011 951 1011 951 1011 952 c 2,166,-1
  1011 950 l 2,167,168
@@ -17822,13 +17824,13 @@ EndChar
 
 StartChar: tcaron
 Encoding: 357 357 278
-Width: 1399
+Width: 1275
 GlyphClass: 2
 Flags: W
 LayerCount: 2
 Fore
-Refer: 17 44 N 1 0 0 1 1424 811 2
-Refer: 89 116 N 1 0 0 1 0 0 2
+Refer: 57 84 N 1 0 0 1 0 0 3
+Refer: 306 711 N 1 0 0 1 144 164 2
 EndChar
 
 StartChar: Utilde
