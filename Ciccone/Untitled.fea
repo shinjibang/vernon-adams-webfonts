@@ -1,0 +1,78 @@
+@_V=[V  W];
+@_a=[a  c e o oslash];
+languagesystem DFLT dflt;
+languagesystem grek dflt;
+languagesystem latn dflt;
+
+
+feature kern { # Kerning
+ # DEFAULT
+lookup kern0 {
+    pos [F] [d] -100;
+    pos [F] [q] -100;
+    pos [H] [d] -110;
+    pos [H] [q] -77;
+    pos [P] [d] -260;
+    pos [P] [q] -256;
+    pos [T] [d] -313;
+    pos [T] [q] -275;
+    pos [f] [d] -292;
+    pos [f] [q] -314;
+    pos [F] @_a -180;
+    pos [H] @_a -31;
+    pos [P] @_a -201;
+    pos [T] @_a -206;
+    pos @_V @_a -119;
+    pos @_V [d] -185;
+    pos @_V [q] -158;
+    pos [f] @_a -217;
+    pos [r] @_a -40;
+} kern0;
+ script grek; # Greek
+lookup kern0;
+ script latn; # Latin
+lookup kern0;
+} kern;
+
+feature liga { # Standard Ligatures
+ # DEFAULT
+    sub P h by Ph;
+    sub P i by Pi;
+    sub Q u by Qu;
+    sub W h by Wh;
+    sub c t by ct;
+    sub f f l by ffl;
+    sub f f i by ffi;
+    sub f l by fl;
+    sub f i by fi;
+    sub f f by ff;
+    sub s t by st;
+ script latn; # Latin
+lookup liga1 {
+    sub P h by Ph;
+    sub P i by Pi;
+    sub Q u by Qu;
+    sub W h by Wh;
+    sub c t by ct;
+    sub f f l by ffl;
+    sub f f i by ffi;
+    sub f l by fl;
+    sub f i by fi;
+    sub f f by ff;
+    sub s t by st;
+} liga1;
+lookup liga2 {
+    sub P h by Ph;
+    sub P i by Pi;
+    sub Q u by Qu;
+    sub W h by Wh;
+    sub c t by ct;
+    sub f f l by ffl;
+    sub f f i by ffi;
+    sub f l by fl;
+    sub f i by fi;
+    sub f f by ff;
+    sub s t by st;
+} liga2;
+} liga;
+

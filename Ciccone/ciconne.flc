@@ -1,0 +1,11 @@
+%%FONTLAB CLASSES
+
+%%CLASS _V
+%%GLYPHS  V' W
+%%KERNING L 0
+%%END
+
+%%CLASS _a
+%%GLYPHS  a' c e o oslash
+%%KERNING R 0
+%%END
