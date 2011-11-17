@@ -1,0 +1,311 @@
+#KPL:P: My Pair List
+
+A y
+A w
+A v
+A u
+A quoteright
+A quotedblright
+A p
+A Y
+A W
+A V
+A U
+A T
+A Q
+A O
+A G
+A C
+
+B period
+B comma
+B U
+B A
+ 
+D period
+D comma
+D Y
+D W
+D V
+D A
+ 
+F r
+F period
+F o
+F i
+F e
+F comma
+F a
+F A
+ 
+G period
+G comma
+ 
+J u
+J period
+J o
+J e
+J comma
+J a
+J A
+ 
+K y
+K u
+K o
+K e
+K O
+ 
+L y
+L quoteright
+L quotedblright
+L Y
+L W
+L V
+L T
+ 
+N period
+N comma
+N A
+ 
+O period
+O comma
+O Y
+O X
+O W
+O V
+O T
+O A
+ 
+P period
+P o
+P e
+P comma
+P a
+P A
+ 
+Q period
+Q comma
+Q U
+ 
+R Y
+R W
+R V
+R U
+R T
+R O
+ 
+S period
+S comma
+ 
+T y
+T w
+T u
+T semicolon
+T r
+T period
+T o
+T i
+T hyphen
+T h
+T e
+T comma
+T colon
+T a
+T O
+T A
+ 
+U period
+U comma
+U A
+ 
+V u
+V semicolon
+V period
+V o
+V i
+V hyphen
+V e
+V comma
+V colon
+V a
+V O
+V G
+V A
+ 
+W y
+W u
+W semicolon
+W period
+W o
+W i
+W hyphen
+W h
+W e
+W comma
+W colon
+W a
+W O
+W A
+ 
+Y u
+Y semicolon
+Y period
+Y o
+Y i
+Y hyphen
+Y e
+Y comma
+Y colon
+Y a
+Y O
+Y A
+ 
+a y
+a w
+a v
+a t
+a p
+a g
+a b
+ 
+b y
+b v
+b u
+b period
+b l
+b comma
+b b
+ 
+c y
+c period
+c l
+c k
+c h
+c comma
+ 
+colon space
+ 
+comma space
+comma quoteright
+comma quotedblright
+ 
+d y
+d w
+d v
+d period
+d d
+d comma
+ 
+e y
+e x
+e w
+e v
+ e v 
+ e period 
+ e p 
+ e g 
+ e comma 
+ e b 
+ f quoteright 
+ f quotedblright 
+ f period 
+ f o 
+ f l 
+ f i 
+ f f 
+ f e 
+ f dotlessi 
+ f comma 
+ f a 
+ g y 
+ g r 
+ g period 
+ g o 
+ g i 
+ g g 
+ g e 
+ g comma 
+ g a 
+ h y 
+ i v 
+ k y 
+ k o 
+ k e 
+ l y 
+ l w 
+ m y 
+ m u 
+ n y 
+ n v 
+ n u 
+ o y 
+ o x 
+ o w 
+ o v 
+ o g 
+ p y 
+ period quoteright 
+ period quotedblright 
+ quotedblleft quoteleft 
+ quotedblleft A 
+ quotedblright space 
+ quoteleft quoteleft 
+ quoteleft A 
+ quoteright v 
+ quoteright t 
+ quoteright space 
+ quoteright s 
+ quoteright r 
+ quoteright quoteright 
+ quoteright quotedblright 
+ quoteright l 
+ quoteright d 
+ r y 
+ r v 
+ r u 
+ r t 
+ r s 
+ r r 
+ r q 
+ r period 
+ r p 
+ r o 
+ r n 
+ r m 
+ r l 
+ r k 
+ r i 
+ r hyphen 
+ r g 
+ r e 
+ r d 
+ r comma 
+ r c 
+ r a 
+ s w 
+ space quoteleft 
+ space quotedblleft 
+ space Y 
+ space W 
+ space V 
+ space T 
+ space A 
+ v period 
+ v o 
+ v e 
+ v comma 
+ v a 
+ w period 
+ w o 
+ w h 
+ w e 
+ w comma 
+ w a 
+ x e 
+ y period 
+ y o 
+ y e 
+ y comma 
+ y a 
+ z o 
+ z e 
