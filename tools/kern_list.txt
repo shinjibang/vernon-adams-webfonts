@@ -189,6 +189,7 @@ comma space
 comma quoteright
 comma quotedblright
  
+d d
 d y
 d w
 d v
@@ -196,11 +197,12 @@ d period
 d d
 d comma
  
+e a
 e y
 e x
 e w
 e v
- e v 
+ e y 
  e period 
  e p 
  e g 
@@ -283,6 +285,11 @@ e v
  r c 
  r a 
  s w 
+t o
+t e
+t a
+t c
+
  space quoteleft 
  space quotedblleft 
  space Y 
