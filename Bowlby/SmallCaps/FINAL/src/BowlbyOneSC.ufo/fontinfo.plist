@@ -27,9 +27,9 @@
 	<key>openTypeNameLicenseURL</key>
 	<string>http://scripts.sil.org/OFL</string>
 	<key>openTypeNameVersion</key>
-	<string>Version 1.000</string>
+	<string>Version 1.2</string>
 	<key>openTypeNameUniqueID</key>
-	<string>FontForge 2.0 : Bowlby One SC Regular : 1-7-2011</string>
+	<string>Bowlby One SC Regular : 1-7-2011</string>
 	<key>openTypeOS2Panose</key>
 	<array>
 		<integer>2</integer>
